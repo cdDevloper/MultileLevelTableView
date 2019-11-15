@@ -1,0 +1,16 @@
+PODS:
+  - KJExpandableTableTree (1.1.2)
+
+DEPENDENCIES:
+  - KJExpandableTableTree
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - KJExpandableTableTree
+
+SPEC CHECKSUMS:
+  KJExpandableTableTree: b6b20b330e1067a63efec2d4eca69faba64676ca
+
+PODFILE CHECKSUM: 06ad93e01a36ffbe5e534fb053d52bb56f98b4f7
+
+COCOAPODS: 1.5.0

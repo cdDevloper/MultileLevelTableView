@@ -1,0 +1,3930 @@
+{
+    "Tree": {
+        "Id": 0,
+        "Expanded": true,
+        "Parents": [
+                     {
+                    "Id": 1,
+                    "Expanded": false,
+                    "terminalId" : 695,
+                    "Children": [
+                                  {
+                                 "Id": 2,
+                                 "Expanded": true,
+                                 "Children": [
+                                              {
+                                              "Id": 51,
+                                              "Expanded": true,
+                                              "Children":null
+                                              },
+                                              {
+                                              "Id": 52,
+                                              "Expanded": true,
+                                              "Children":null
+                                              }
+                                 ]
+                                  },
+                                  {
+                                 "Id": 3,
+                                 "Expanded": true,
+                                 "Children": [
+                                               {
+                                              "Id": 28,
+                                              "Expanded": true,
+                                              "Children": [
+                                                            {
+                                                           "Id": 29,
+                                                           "Expanded": true,
+                                                           "Children": null
+                                                            }
+                                                            ]
+                                               }
+                                               ]
+                                  }
+                                  ]
+                     },
+                     {
+                    "Id": 4,
+                    "Children": null
+                     },
+                     {
+                    "Id": 5,
+                    "Children": null
+                     },
+                     {
+                    "Id": 6,
+                    "Expanded": true,
+                    "Children": [
+                                  {
+                                 "Id": 14,
+                                 "Children": null
+                                  },
+                                  {
+                                 "Id": 27,
+                                 "Children": null
+                                  }
+                                  ]
+                     },
+                     {
+                    "Id": 7,
+                    "Expanded": true,
+                    "Children": [
+                                  {
+                                  "Id": 17,
+                                  "Children": null
+                                  },
+                                  {
+                                  "Id": 18,
+                                  "Children": null
+                                  },
+                                  {
+                                  "Id": 19,
+                                  "Children": null
+                                  },
+                                  {
+                                  "Id": 20,
+                                  "Children": null
+                                  },
+                                  {
+                                  "Id": 21,
+                                  "Children": null
+                                  },
+                                  {
+                                  "Id": 22,
+                                  "Children": null
+                                  },
+                                  {
+                                  "Id": 23,
+                                  "Children": null
+                                  }
+                                  ]
+                     },
+                     {
+                     "Id": 8,
+                     "Children": null
+                     },
+                     {
+                     "Id": 9,
+                     "Children": null
+                     },
+                     {
+                     "Id": 10,
+                     "Children": null
+                     },
+                     {
+                     "Id": 11,
+                     "Children": null
+                     },
+                     {
+                     "Id": 12,
+                     "Children": null
+                     },
+                     {
+                     "Id": 13,
+                     "Children": null
+                     }
+                     ]
+    }
+}
+[
+    {
+        "deliverySchedules" : [
+            {
+                "supplierSource" : null,
+                "jobState" : "New York",
+                "trackableScheduleId" : 145693,
+                "driverDeliveryDetails" : {
+                    "jobState" : "New York",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 3376
+                    },
+                    "jobLongitude" : 72.843861599999997,
+                    "jobZip" : "10005",
+                    "jobLatitude" : 20.380487899999999,
+                    "jobName" : "In500miles",
+                    "jobAddress" : "57 Wall Street New York",
+                    "companyName" : "SNL ",
+                    "jobCity" : "New York County",
+                    "contactPersons" : [
+                        
+                    ]
+                },
+                "jobId" : 1018,
+                "jobCity" : "New York County",
+                "startTime" : "3:55 PM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 250,
+                "jobName" : "In500miles",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "SNL ",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 0,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 20.380487899999999,
+                        "id" : 0,
+                        "address" : "57 Wall Street New York, New York County, New York, 10005",
+                        "isJobLocation" : true,
+                        "longitude" : 72.843861599999997
+                    }
+                ],
+                "jobAddress" : "57 Wall Street New York",
+                "orderId" : 3376,
+                "fuelPickUpLocation" : {
+                    "city" : "Mechanicsburg",
+                    "id" : null,
+                    "countyName" : "Cumberland County",
+                    "longitude" : -77.046379000000002,
+                    "stateCode" : "PA",
+                    "terminalName" : "Pyramid, LLC - Mechanicsburg",
+                    "zipCode" : "17050",
+                    "isPickUpLocation" : false,
+                    "latitude" : 40.223098999999998,
+                    "countryCode" : "USA",
+                    "terminalId" : 695,
+                    "address" : "127 Texaco Rd"
+                },
+                "jobZip" : "10005",
+                "isFTL" : false,
+                "deliveryScheduleId" : 3143,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "orderwithin500miles",
+                "utcStartTime" : 1573833300000,
+                "utcEndTime" : 1573833300000,
+                "fuelType" : "(10% BioDsl) - Red Dye Diesel #2 - LS",
+                "customerSignatureRequired" : false,
+                "currency" : 1,
+                "endTime" : "3:55 PM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "New York",
+                "trackableScheduleId" : 145687,
+                "driverDeliveryDetails" : {
+                    "jobZip" : "10005",
+                    "jobName" : "In500miles",
+                    "jobState" : "New York",
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobAddress" : "57 Wall Street New York",
+                    "jobLatitude" : 20.380487899999999,
+                    "companyName" : "SNL ",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobCity" : "New York County",
+                    "jobLongitude" : 72.843861599999997,
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 3448
+                    }
+                },
+                "jobId" : 1018,
+                "jobCity" : "New York County",
+                "startTime" : "11:44 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 77,
+                "jobName" : "In500miles",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "SNL ",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 0,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 20.380487899999999,
+                        "id" : 0,
+                        "address" : "57 Wall Street New York, New York County, New York, 10005",
+                        "isJobLocation" : true,
+                        "longitude" : 72.843861599999997
+                    }
+                ],
+                "jobAddress" : "57 Wall Street New York",
+                "orderId" : 3448,
+                "fuelPickUpLocation" : {
+                    "longitude" : -78.831474999999998,
+                    "isPickUpLocation" : false,
+                    "zipCode" : "14210",
+                    "address" : "625 Elk St",
+                    "countryCode" : "USA",
+                    "terminalId" : 80,
+                    "stateCode" : "NY",
+                    "terminalName" : "Buckeye Terminals - Buffalo",
+                    "latitude" : 42.864263999999999,
+                    "city" : "Buffalo",
+                    "countyName" : "Erie County",
+                    "id" : null
+                },
+                "jobZip" : "10005",
+                "isFTL" : false,
+                "deliveryScheduleId" : 3553,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "repro4sravanthi",
+                "utcStartTime" : 1573818240000,
+                "utcEndTime" : 1573829040000,
+                "fuelType" : "Clear Diesel #2 - ULS",
+                "customerSignatureRequired" : false,
+                "currency" : 1,
+                "endTime" : "2:44 PM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "Washington",
+                "trackableScheduleId" : 0,
+                "driverDeliveryDetails" : {
+                    "jobName" : "Asset enabled Company-1200 W 5th Ave",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "companyName" : "Asset enabled Company",
+                    "contactPersons" : [
+                        {
+                            "entityId" : 0,
+                            "displayMode" : 0,
+                            "companyId" : 0,
+                            "entityNumber" : null,
+                            "name" : "Suri S",
+                            "email" : "suri@mailiantor.com",
+                            "failedStatusCode" : 0,
+                            "phoneNumber" : "7777777777",
+                            "statusMessage" : "Failed",
+                            "isPhoneNumberConfirmed" : false,
+                            "companyName" : null,
+                            "statusCode" : 1,
+                            "id" : 920
+                        }
+                    ],
+                    "jobCity" : "Ellensburg",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 3507
+                    },
+                    "jobState" : "Washington",
+                    "jobAddress" : "1200 W 5th Ave",
+                    "jobLongitude" : -120.5630839,
+                    "jobLatitude" : 46.995947100000002,
+                    "jobZip" : "98926"
+                },
+                "jobId" : 2167,
+                "jobCity" : "Ellensburg",
+                "startTime" : "8:00 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 4500,
+                "jobName" : "Asset enabled Company-1200 W 5th Ave",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "Asset enabled Company",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 2,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 46.995947100000002,
+                        "id" : 0,
+                        "address" : "1200 W 5th Ave, Ellensburg, Washington, 98926",
+                        "isJobLocation" : true,
+                        "longitude" : -120.5630839
+                    }
+                ],
+                "jobAddress" : "1200 W 5th Ave",
+                "orderId" : 3507,
+                "fuelPickUpLocation" : {
+                    "countyName" : "Cass County",
+                    "id" : null,
+                    "terminalId" : 496,
+                    "longitude" : -97.087270000000004,
+                    "zipCode" : "58203",
+                    "stateCode" : "ND",
+                    "isPickUpLocation" : false,
+                    "countryCode" : "USA",
+                    "terminalName" : "Magellan Pipeline - Grand Forks",
+                    "address" : "3930 Gateway Dr",
+                    "latitude" : 47.087269999999997,
+                    "city" : "Grand Forks"
+                },
+                "jobZip" : "98926",
+                "isFTL" : false,
+                "deliveryScheduleId" : 0,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "assetsadded",
+                "utcStartTime" : 1573804800000,
+                "utcEndTime" : 1573837200000,
+                "fuelType" : "(10% BioDsl) - Clear Diesel (Premium) - ULS",
+                "customerSignatureRequired" : false,
+                "currency" : 1,
+                "endTime" : "5:00 PM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "Florida",
+                "trackableScheduleId" : 0,
+                "driverDeliveryDetails" : {
+                    "jobCity" : "Tampa",
+                    "jobAddress" : "4934 W Bay Way Pl",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 3522
+                    },
+                    "jobZip" : "33629",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobState" : "Florida",
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobLatitude" : 21.967793,
+                    "companyName" : "bulk upload asset",
+                    "jobName" : "bulk upload asset-4934 W Bay Way Pl",
+                    "jobLongitude" : 78.929901099999995
+                },
+                "jobId" : 2178,
+                "jobCity" : "Tampa",
+                "startTime" : "8:00 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 4500,
+                "jobName" : "bulk upload asset-4934 W Bay Way Pl",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "bulk upload asset",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 4,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 21.967793,
+                        "id" : 0,
+                        "address" : "4934 W Bay Way Pl, Tampa, Florida, 33629",
+                        "isJobLocation" : true,
+                        "longitude" : 78.929901099999995
+                    }
+                ],
+                "jobAddress" : "4934 W Bay Way Pl",
+                "orderId" : 3522,
+                "fuelPickUpLocation" : {
+                    "latitude" : 34.549833,
+                    "countryCode" : "USA",
+                    "longitude" : -82.492226000000002,
+                    "address" : "14315 State Route 20",
+                    "city" : "Belton",
+                    "terminalId" : 107,
+                    "id" : null,
+                    "zipCode" : "29627",
+                    "isPickUpLocation" : false,
+                    "stateCode" : "SC",
+                    "terminalName" : "Marathon Oil Belton",
+                    "countyName" : "Anderson County"
+                },
+                "jobZip" : "33629",
+                "isFTL" : false,
+                "deliveryScheduleId" : 0,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "bulk upload asset_1",
+                
+                "utcStartTime" : 1573804800000,
+                "utcEndTime" : 1573837200000,
+                "fuelType" : "Kerosene - ULS",
+                "customerSignatureRequired" : false,
+                "currency" : 1,
+                "endTime" : "5:00 PM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "Indiana",
+                "trackableScheduleId" : 0,
+                "driverDeliveryDetails" : {
+                    "jobState" : "Indiana",
+                    "jobCity" : "Bloomington",
+                    "jobAddress" : "1655 South Oakdale Drive",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 3523
+                    },
+                    "companyName" : "bulk upload asset",
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobLongitude" : -86.570613100000003,
+                    "jobLatitude" : 39.145856299999998,
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobZip" : "47403",
+                    "jobName" : "bulk upload asset-1655 South Oakdale Drive"
+                },
+                "jobId" : 2179,
+                "jobCity" : "Bloomington",
+                "startTime" : "8:00 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 5400,
+                "jobName" : "bulk upload asset-1655 South Oakdale Drive",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "bulk upload asset",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 2,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 39.145856299999998,
+                        "id" : 0,
+                        "address" : "1655 South Oakdale Drive, Bloomington, Indiana, 47403",
+                        "isJobLocation" : true,
+                        "longitude" : -86.570613100000003
+                    }
+                ],
+                "jobAddress" : "1655 South Oakdale Drive",
+                "orderId" : 3523,
+                "fuelPickUpLocation" : {
+                    "countryCode" : "USA",
+                    "address" : "9 Thorn St",
+                    "isPickUpLocation" : false,
+                    "terminalName" : "Pyramid, LLC - Corapolis (SOUTH)",
+                    "terminalId" : 313,
+                    "city" : "Coraopolis",
+                    "zipCode" : "15108",
+                    "longitude" : -80.173834999999997,
+                    "stateCode" : "PA",
+                    "latitude" : 40.524662999999997,
+                    "id" : null,
+                    "countyName" : "Allegheny County"
+                },
+                "jobZip" : "47403",
+                "isFTL" : false,
+                "deliveryScheduleId" : 0,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "bulk upload asset_2",
+                "utcStartTime" : 1573804800000,
+                "utcEndTime" : 1573837200000,
+                "fuelType" : "Kerosene (Dyed)",
+                "customerSignatureRequired" : false,
+                "currency" : 1,
+                "endTime" : "5:00 PM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "Indiana",
+                "trackableScheduleId" : 145741,
+                "driverDeliveryDetails" : {
+                    "jobAddress" : "1655 South Oakdale Drive Bloomington",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 3626
+                    },
+                    "contactPersons" : [
+                        {
+                            "entityId" : 0,
+                            "displayMode" : 0,
+                            "companyId" : 0,
+                            "name" : "Peter Parker",
+                            "entityNumber" : null,
+                            "email" : "peteronsite@mailinator.com",
+                            "failedStatusCode" : 0,
+                            "phoneNumber" : "7554125414",
+                            "statusMessage" : "Failed",
+                            "isPhoneNumberConfirmed" : false,
+                            "companyName" : null,
+                            "statusCode" : 1,
+                            "id" : 1678
+                        }
+                    ],
+                    "jobLongitude" : 73.908698799999996,
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobLatitude" : 18.570294700000002,
+                    "jobState" : "Indiana",
+                    "jobCity" : "Monroe County",
+                    "jobName" : "Konarkjob",
+                    "companyName" : "AC-DC",
+                    "jobZip" : "47403"
+                },
+                "jobId" : 2135,
+                "jobCity" : "Monroe County",
+                "startTime" : "3:29 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 20,
+                "jobName" : "Konarkjob",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "AC-DC",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 0,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 18.570294700000002,
+                        "id" : 0,
+                        "address" : "1655 South Oakdale Drive Bloomington, Monroe County, Indiana, 47403",
+                        "isJobLocation" : true,
+                        "longitude" : 73.908698799999996
+                    }
+                ],
+                "jobAddress" : "1655 South Oakdale Drive Bloomington",
+                "orderId" : 3626,
+                "fuelPickUpLocation" : {
+                    "latitude" : 37.916187000000001,
+                    "longitude" : -87.919936000000007,
+                    "city" : "Mount Vernon",
+                    "address" : "300 Old Highway 69 S",
+                    "stateCode" : "IN",
+                    "countryCode" : "USA",
+                    "zipCode" : "47620",
+                    "isPickUpLocation" : false,
+                    "id" : null,
+                    "terminalId" : 795,
+                    "terminalName" : "Buckeye Terminals - Mount Vernon",
+                    "countyName" : "Posey County"
+                },
+                "jobZip" : "47403",
+                "isFTL" : false,
+                "deliveryScheduleId" : 3902,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "draft_ddt_1",
+                "utcStartTime" : 1573788540000,
+                "utcEndTime" : 1573856940000,
+                "fuelType" : "Propane ",
+                "customerSignatureRequired" : false,
+                "currency" : 1,
+                "endTime" : "10:29 PM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "Indiana",
+                "trackableScheduleId" : 0,
+                "driverDeliveryDetails" : {
+                    "jobLatitude" : 39.145856299999998,
+                    "specialInstructions" : [
+                        "please close the door",
+                        "please close the door"
+                    ],
+                    "jobAddress" : "1655 South Oakdale Drive Bloomington",
+                    "jobState" : "Indiana",
+                    "jobLongitude" : -86.570613100000003,
+                    "contactPersons" : [
+                        {
+                            "entityId" : 0,
+                            "displayMode" : 0,
+                            "companyId" : 0,
+                            "name" : "Steve  Rogers",
+                            "entityNumber" : null,
+                            "email" : "steverogers@mailinator.com",
+                            "failedStatusCode" : 0,
+                            "phoneNumber" : "7559450845",
+                            "statusMessage" : "Failed",
+                            "isPhoneNumberConfirmed" : false,
+                            "companyName" : null,
+                            "statusCode" : 1,
+                            "id" : 466
+                        }
+                    ],
+                    "jobName" : "Pym laboratory",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 3678
+                    },
+                    "companyName" : "SNL ",
+                    "jobCity" : "Monroe County",
+                    "jobZip" : "47403"
+                },
+                "jobId" : 938,
+                "jobCity" : "Monroe County",
+                "startTime" : "7:38 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 500000,
+                "jobName" : "Pym laboratory",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "SNL ",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 4,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 39.145856299999998,
+                        "id" : 0,
+                        "address" : "1655 South Oakdale Drive Bloomington, Monroe County, Indiana, 47403",
+                        "isJobLocation" : true,
+                        "longitude" : -86.570613100000003
+                    }
+                ],
+                "jobAddress" : "1655 South Oakdale Drive Bloomington",
+                "orderId" : 3678,
+                "fuelPickUpLocation" : {
+                    "stateCode" : "MN",
+                    "latitude" : 46.708986000000003,
+                    "terminalName" : "Calumet - Esko",
+                    "countyName" : "St Louis County",
+                    "zipCode" : "55733",
+                    "address" : "5746 Old Highway 61",
+                    "isPickUpLocation" : false,
+                    "id" : null,
+                    "city" : "Esko",
+                    "terminalId" : 408,
+                    "longitude" : -92.286564999999996,
+                    "countryCode" : "USA"
+                },
+                "jobZip" : "47403",
+                "isFTL" : false,
+                "deliveryScheduleId" : 0,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "SFPO0003678",
+                "utcStartTime" : 1573803480000,
+                "utcEndTime" : 1573858800000,
+                "fuelType" : "Fuel Oil #1 - LS",
+                "customerSignatureRequired" : true,
+                "currency" : 1,
+                "endTime" : "11:00 PM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "California",
+                "trackableScheduleId" : 0,
+                "driverDeliveryDetails" : {
+                    "jobAddress" : "2223 Fulton St",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobLongitude" : 73.908191099999996,
+                    "jobState" : "California",
+                    "companyName" : "Amesos",
+                    "jobCity" : "Berkeley",
+                    "jobName" : "Job Amesos",
+                    "jobZip" : "94704",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 4533
+                    },
+                    "jobLatitude" : 18.576497
+                },
+                "jobId" : 2560,
+                "jobCity" : "Berkeley",
+                "startTime" : "8:00 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 2500,
+                "jobName" : "Job Amesos",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "Amesos",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 2,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 18.576497,
+                        "id" : 0,
+                        "address" : "2223 Fulton St, Berkeley, California, 94704",
+                        "isJobLocation" : true,
+                        "longitude" : 73.908191099999996
+                    }
+                ],
+                "jobAddress" : "2223 Fulton St",
+                "orderId" : 4533,
+                "fuelPickUpLocation" : null,
+                "jobZip" : "94704",
+                "isFTL" : false,
+                "deliveryScheduleId" : 0,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "SFPO0004533",
+                "utcStartTime" : 1573804800000,
+                "utcEndTime" : 1573837200000,
+                "fuelType" : "Green Dye Diesel",
+                "customerSignatureRequired" : false,
+                "currency" : 1,
+                "endTime" : "5:00 PM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "Texas",
+                "trackableScheduleId" : 0,
+                "driverDeliveryDetails" : {
+                    "jobState" : "Texas",
+                    "jobAddress" : "300 Reunion Blvd E",
+                    "jobZip" : "75207",
+                    "companyName" : "AMP",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobCity" : "Dallas",
+                    "jobLatitude" : 18.576497,
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 4788
+                    },
+                    "jobName" : "Texas_job_forAMP",
+                    "jobLongitude" : 73.908191099999996,
+                    "contactPersons" : [
+                        {
+                            "entityId" : 0,
+                            "displayMode" : 0,
+                            "companyId" : 0,
+                            "name" : "Chaitanya C",
+                            "entityNumber" : null,
+                            "email" : "chaitanya@mailinator.com",
+                            "failedStatusCode" : 0,
+                            "phoneNumber" : "7884514578",
+                            "statusMessage" : "Failed",
+                            "isPhoneNumberConfirmed" : false,
+                            "companyName" : null,
+                            "statusCode" : 1,
+                            "id" : 1417
+                        },
+                        {
+                            "entityId" : 0,
+                            "displayMode" : 0,
+                            "companyId" : 0,
+                            "name" : "CD C",
+                            "entityNumber" : null,
+                            "email" : "7559450845",
+                            "failedStatusCode" : 0,
+                            "phoneNumber" : "7558745415",
+                            "statusMessage" : "Failed",
+                            "isPhoneNumberConfirmed" : false,
+                            "companyName" : null,
+                            "statusCode" : 1,
+                            "id" : 1420
+                        }
+                    ]
+                },
+                "jobId" : 2592,
+                "jobCity" : "Dallas",
+                "startTime" : "8:00 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 500,
+                "jobName" : "Texas_job_forAMP",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "AMP",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 2,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 18.576497,
+                        "id" : 0,
+                        "address" : "300 Reunion Blvd E, Dallas, Texas, 75207",
+                        "isJobLocation" : true,
+                        "longitude" : 73.908191099999996
+                    }
+                ],
+                "jobAddress" : "300 Reunion Blvd E",
+                "orderId" : 4788,
+                "fuelPickUpLocation" : {
+                    "id" : null,
+                    "isPickUpLocation" : false,
+                    "countryCode" : "USA",
+                    "countyName" : "El Paso County",
+                    "stateCode" : "TX",
+                    "latitude" : 31.815548,
+                    "longitude" : -106.20793999999999,
+                    "terminalName" : "Magellan Pipeline - El Paso",
+                    "terminalId" : 397,
+                    "address" : "13551 Montana Ave",
+                    "city" : "El Paso",
+                    "zipCode" : "79938"
+                },
+                "jobZip" : "75207",
+                "isFTL" : false,
+                "deliveryScheduleId" : 0,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "onsite_test",
+                "utcStartTime" : 1573804800000,
+                "utcEndTime" : 1573837200000,
+                "fuelType" : "Conv. 89 Unleaded",
+                "customerSignatureRequired" : false,
+                "currency" : 1,
+                "endTime" : "5:00 PM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "Texas",
+                "trackableScheduleId" : 0,
+                "driverDeliveryDetails" : {
+                    "jobState" : "Texas",
+                    "jobName" : "Texas_job_forAMP",
+                    "companyName" : "AMP",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 4789
+                    },
+                    "jobZip" : "75207",
+                    "jobLatitude" : 18.576497,
+                    "contactPersons" : [
+                        {
+                            "entityId" : 0,
+                            "displayMode" : 0,
+                            "companyId" : 0,
+                            "name" : "Chaitanya C",
+                            "entityNumber" : null,
+                            "email" : "chaitanya@mailinator.com",
+                            "failedStatusCode" : 0,
+                            "phoneNumber" : "7884514578",
+                            "statusMessage" : "Failed",
+                            "isPhoneNumberConfirmed" : false,
+                            "companyName" : null,
+                            "statusCode" : 1,
+                            "id" : 1417
+                        },
+                        {
+                            "entityId" : 0,
+                            "displayMode" : 0,
+                            "companyId" : 0,
+                            "name" : "CD C",
+                            "entityNumber" : null,
+                            "email" : "7559450845",
+                            "failedStatusCode" : 0,
+                            "phoneNumber" : "7558745415",
+                            "statusMessage" : "Failed",
+                            "isPhoneNumberConfirmed" : false,
+                            "companyName" : null,
+                            "statusCode" : 1,
+                            "id" : 1420
+                        }
+                    ],
+                    "jobCity" : "Dallas",
+                    "jobLongitude" : 73.908191099999996,
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobAddress" : "300 Reunion Blvd E"
+                },
+                "jobId" : 2592,
+                "jobCity" : "Dallas",
+                "startTime" : "8:00 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 522,
+                "jobName" : "Texas_job_forAMP",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "AMP",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 4,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 18.576497,
+                        "id" : 0,
+                        "address" : "300 Reunion Blvd E, Dallas, Texas, 75207",
+                        "isJobLocation" : true,
+                        "longitude" : 73.908191099999996
+                    }
+                ],
+                "jobAddress" : "300 Reunion Blvd E",
+                "orderId" : 4789,
+                "fuelPickUpLocation" : {
+                    "countyName" : "Imperial County",
+                    "city" : "Imperial",
+                    "longitude" : -115.56538,
+                    "isPickUpLocation" : false,
+                    "latitude" : 32.825077,
+                    "id" : null,
+                    "terminalName" : "SFPP - Imperial",
+                    "address" : "345 W Aten Rd",
+                    "stateCode" : "CA",
+                    "countryCode" : "USA",
+                    "terminalId" : 568,
+                    "zipCode" : "92251"
+                },
+                "jobZip" : "75207",
+                "isFTL" : false,
+                "deliveryScheduleId" : 0,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "onsite_test2",
+                "utcStartTime" : 1573804800000,
+                "utcEndTime" : 1573837200000,
+                "fuelType" : "Clear Diesel - Carb - ULS",
+                "customerSignatureRequired" : false,
+                "currency" : 1,
+                "endTime" : "5:00 PM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "Alabama",
+                "trackableScheduleId" : 0,
+                "driverDeliveryDetails" : {
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 5389
+                    },
+                    "jobName" : "JoblocationIndia[Noapproval]",
+                    "jobAddress" : "34301 Hwy 43",
+                    "jobCity" : "Thomasville",
+                    "contactPersons" : [
+                        {
+                            "entityId" : 0,
+                            "displayMode" : 0,
+                            "companyId" : 0,
+                            "name" : "Bruno Mars",
+                            "entityNumber" : null,
+                            "email" : "brunomarsonsite@mailinator.com",
+                            "failedStatusCode" : 0,
+                            "phoneNumber" : "7889854785",
+                            "statusMessage" : "Failed",
+                            "isPhoneNumberConfirmed" : false,
+                            "companyName" : null,
+                            "statusCode" : 1,
+                            "id" : 1437
+                        }
+                    ],
+                    "companyName" : "Luthor Corp",
+                    "jobLongitude" : 73.868088799999995,
+                    "jobZip" : "36784",
+                    "jobLatitude" : 18.508862100000002,
+                    "specialInstructions" : [
+                        "my way or highway",
+                        "Good intentions"
+                    ],
+                    "jobState" : "Alabama"
+                },
+                "jobId" : 2777,
+                "jobCity" : "Thomasville",
+                "startTime" : "8:49 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 2500,
+                "jobName" : "JoblocationIndia[Noapproval]",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "Luthor Corp",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 4,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        
+                        "latitude" : 18.508862100000002,
+                        "id" : 0,
+                        "address" : "34301 Hwy 43, Thomasville, Alabama, 36784",
+                        "isJobLocation" : true,
+                        "longitude" : 73.868088799999995
+                    }
+                ],
+                "jobAddress" : "34301 Hwy 43",
+                "orderId" : 5389,
+                "fuelPickUpLocation" : {
+                    "longitude" : -93.204037999999997,
+                    "latitude" : 45.0242,
+                    "terminalName" : "Flint Hills - Roseville",
+                    "countryCode" : "USA",
+                    "address" : "2451 County Road C W",
+                    "terminalId" : 1045,
+                    "city" : "Saint Paul",
+                    "zipCode" : "55113",
+                    "stateCode" : "MN",
+                    "isPickUpLocation" : false,
+                    "countyName" : "Ramsey County",
+                    "id" : null
+                },
+                "jobZip" : "36784",
+                "isFTL" : false,
+                "deliveryScheduleId" : 0,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "SFPO0005389",
+                "utcStartTime" : 1573807740000,
+                "utcEndTime" : 1573849680000,
+                "fuelType" : "Red Dye Diesel #2 - ULS",
+                "customerSignatureRequired" : false,
+                "currency" : 1,
+                "endTime" : "8:28 PM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "Washington",
+                "trackableScheduleId" : 0,
+                "driverDeliveryDetails" : {
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 5403
+                    },
+                    "companyName" : "Anyone",
+                    "jobAddress" : "400 E University Way",
+                    "contactPersons" : [
+                        
+                    ],
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobState" : "Washington",
+                    "jobZip" : "98926",
+                    "jobLongitude" : -120.53589820000001,
+                    "jobName" : "Hogwarts",
+                    "jobLatitude" : 47.007365499999999,
+                    "jobCity" : "Ellensburg"
+                },
+                "jobId" : 2901,
+                "jobCity" : "Ellensburg",
+                "startTime" : "8:00 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 500,
+                "jobName" : "Hogwarts",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "Anyone",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 2,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 47.007365499999999,
+                        "id" : 0,
+                        "address" : "400 E University Way, Ellensburg, Washington, 98926",
+                        "isJobLocation" : true,
+                        "longitude" : -120.53589820000001
+                    }
+                ],
+                "jobAddress" : "400 E University Way",
+                "orderId" : 5403,
+                "fuelPickUpLocation" : {
+                    "address" : "2628 Marine View Dr",
+                    "city" : "Tacoma",
+                    "countryCode" : "USA",
+                    "longitude" : -122.38547,
+                    "id" : null,
+                    "isPickUpLocation" : false,
+                    "latitude" : 47.277686000000003,
+                    "terminalName" : "Targa Resources - Tacoma",
+                    "stateCode" : "WA",
+                    "zipCode" : "98422",
+                    "countyName" : "Pierce County",
+                    "terminalId" : 1204
+                },
+                "jobZip" : "98926",
+                "isFTL" : false,
+                "deliveryScheduleId" : 0,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "SFPO0005403",
+                "utcStartTime" : 1573804800000,
+                "utcEndTime" : 1573837200000,
+                "fuelType" : "Red Dye Diesel #2 - ULS",
+                "customerSignatureRequired" : false,
+                "currency" : 1,
+                "endTime" : "5:00 PM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "Alabama",
+                "trackableScheduleId" : 0,
+                "driverDeliveryDetails" : {
+                    "jobState" : "Alabama",
+                    "jobCity" : "Thomasville",
+                    "jobLongitude" : 73.868088799999995,
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 5404
+                    },
+                    "contactPersons" : [
+                        {
+                            "entityId" : 0,
+                            "displayMode" : 0,
+                            "companyId" : 0,
+                            "entityNumber" : null,
+                            "name" : "Bruno Mars",
+                            "email" : "brunomarsonsite@mailinator.com",
+                            "failedStatusCode" : 0,
+                            "phoneNumber" : "7889854785",
+                            "statusMessage" : "Failed",
+                            "isPhoneNumberConfirmed" : false,
+                            "companyName" : null,
+                            "statusCode" : 1,
+                            "id" : 1437
+                        }
+                    ],
+                    "companyName" : "Luthor Corp",
+                    "jobName" : "JoblocationIndia[Noapproval]",
+                    "jobAddress" : "34301 Hwy 43",
+                    "jobZip" : "36784",
+                    "specialInstructions" : [
+                        "my way or highway",
+                        "Good intentions"
+                    ],
+                    "jobLatitude" : 18.508862100000002
+                },
+                "jobId" : 2777,
+                "jobCity" : "Thomasville",
+                "startTime" : "8:49 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 2500,
+                "jobName" : "JoblocationIndia[Noapproval]",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "Luthor Corp",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 4,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 18.508862100000002,
+                        "id" : 0,
+                        "address" : "34301 Hwy 43, Thomasville, Alabama, 36784",
+                        "isJobLocation" : true,
+                        "longitude" : 73.868088799999995
+                    }
+                ],
+                "jobAddress" : "34301 Hwy 43",
+                "orderId" : 5404,
+                "fuelPickUpLocation" : {
+                    "terminalName" : "Flint Hills - Roseville",
+                    "countryCode" : "USA",
+                    "stateCode" : "MN",
+                    "terminalId" : 1045,
+                    "city" : "Saint Paul",
+                    "latitude" : 45.0242,
+                    "isPickUpLocation" : false,
+                    "countyName" : "Ramsey County",
+                    "id" : null,
+                    "address" : "2451 County Road C W",
+                    "zipCode" : "55113",
+                    "longitude" : -93.204037999999997
+                },
+                "jobZip" : "36784",
+                "isFTL" : false,
+                "deliveryScheduleId" : 0,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "SFPO0005404",
+                "utcStartTime" : 1573807740000,
+                "utcEndTime" : 1573849680000,
+                "fuelType" : "Red Dye Diesel #2 - ULS",
+                "customerSignatureRequired" : false,
+                "currency" : 1,
+                "endTime" : "8:28 PM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "Texas",
+                "trackableScheduleId" : 0,
+                "driverDeliveryDetails" : {
+                    "jobState" : "Texas",
+                    "jobLongitude" : -96.821701700000006,
+                    "jobCity" : "Dallas",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 6308
+                    },
+                    "companyName" : "Luthor Corp",
+                    "jobZip" : "75207",
+                    "jobName" : "sofarawayjob",
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobLatitude" : 32.789159099999999,
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobAddress" : "145 Cole St"
+                },
+                "jobId" : 3132,
+                "jobCity" : "Dallas",
+                "startTime" : "12:00 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 890,
+                "jobName" : "sofarawayjob",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "Luthor Corp",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 4,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 32.789159099999999,
+                        "id" : 0,
+                        "address" : "145 Cole St, Dallas, Texas, 75207",
+                        "isJobLocation" : true,
+                        "longitude" : -96.821701700000006
+                    }
+                ],
+                "jobAddress" : "145 Cole St",
+                "orderId" : 6308,
+                "fuelPickUpLocation" : {
+                    "longitude" : -96.884876000000006,
+                    "stateCode" : "TX",
+                    "city" : "Dallas",
+                    "zipCode" : "75212",
+                    "latitude" : 32.778390000000002,
+                    "address" : "3900 Singleton Blvd",
+                    "id" : null,
+                    "isPickUpLocation" : false,
+                    "countyName" : "Dallas County",
+                    "countryCode" : "USA",
+                    "terminalName" : "Motiva - Dallas",
+                    "terminalId" : 327
+                },
+                "jobZip" : "75207",
+                "isFTL" : false,
+                "deliveryScheduleId" : 0,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "SFPO0006308",
+                "utcStartTime" : 1573776000000,
+                "utcEndTime" : 1573776000000,
+                "fuelType" : "87 Unleaded - Carb Reform (w\/10% Eth) (CA)",
+                "customerSignatureRequired" : false,
+                "currency" : 1,
+                "endTime" : "12:00 AM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "Indiana",
+                "trackableScheduleId" : 0,
+                "driverDeliveryDetails" : {
+                    "contactPersons" : [
+                        {
+                            "entityId" : 0,
+                            "displayMode" : 0,
+                            "companyId" : 0,
+                            "name" : "Steve  Rogers",
+                            "entityNumber" : null,
+                            "email" : "steverogers@mailinator.com",
+                            "failedStatusCode" : 0,
+                            "phoneNumber" : "7559450845",
+                            "statusMessage" : "Failed",
+                            "isPhoneNumberConfirmed" : false,
+                            "companyName" : null,
+                            "statusCode" : 1,
+                            "id" : 466
+                        }
+                    ],
+                    "jobName" : "Pym laboratory",
+                    "jobZip" : "47403",
+                    "companyName" : "SNL ",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 6983
+                    },
+                    "jobLatitude" : 39.145856299999998,
+                    "jobAddress" : "1655 South Oakdale Drive Bloomington",
+                    "jobState" : "Indiana",
+                    "jobLongitude" : -86.570613100000003,
+                    "jobCity" : "Monroe County"
+                },
+                "jobId" : 938,
+                "jobCity" : "Monroe County",
+                "startTime" : "8:00 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 500,
+                "jobName" : "Pym laboratory",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "SNL ",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 2,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 39.145856299999998,
+                        "id" : 0,
+                        "address" : "1655 South Oakdale Drive Bloomington, Monroe County, Indiana, 47403",
+                        "isJobLocation" : true,
+                        "longitude" : -86.570613100000003
+                    }
+                ],
+                "jobAddress" : "1655 South Oakdale Drive Bloomington",
+                "orderId" : 6983,
+                "fuelPickUpLocation" : null,
+                "jobZip" : "47403",
+                "isFTL" : false,
+                "deliveryScheduleId" : 0,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "SFPO0006983",
+                "utcStartTime" : 1573804800000,
+                "utcEndTime" : 1573837200000,
+                "fuelType" : "low cost diesel",
+                "customerSignatureRequired" : true,
+                "currency" : 1,
+                "endTime" : "5:00 PM"
+            },
+            {
+                "supplierSource" : null,
+                "jobState" : "Alabama",
+                "trackableScheduleId" : 0,
+                "driverDeliveryDetails" : {
+                    "jobAddress" : "1501 Skyland Blvd E",
+                    "companyName" : "Marvell",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 7015
+                    },
+                    "jobZip" : "35405",
+                    "jobState" : "Alabama",
+                    "contactPersons" : [
+                        {
+                            "id" : 1591,
+                            "companyName" : null,
+                            "statusCode" : 1,
+                            "failedStatusCode" : 0,
+                            "entityId" : 0,
+                            "name" : "Carol C",
+                            "statusMessage" : "Failed",
+                            "companyId" : 0,
+                            "email" : "captmarvel@mailinator.com",
+                            "isPhoneNumberConfirmed" : false,
+                            "displayMode" : 0,
+                            "phoneNumber" : "7559450845",
+                            "entityNumber" : null
+                        },
+                        {
+                            "id" : 2112,
+                            "companyName" : null,
+                            "statusCode" : 1,
+                            "failedStatusCode" : 0,
+                            "entityId" : 0,
+                            "name" : "Swati S",
+                            "statusMessage" : "Failed",
+                            "companyId" : 0,
+                            "email" : "swati@mailinator.com",
+                            "isPhoneNumberConfirmed" : false,
+                            "displayMode" : 0,
+                            "phoneNumber" : "755-945-0845",
+                            "entityNumber" : null
+                        }
+                    ],
+                    "jobLongitude" : 73.911552299999997,
+                    "jobName" : "Kree_tpojob",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobLatitude" : 18.56287,
+                    "jobCity" : "Tuscaloosa"
+                },
+                "jobId" : 2834,
+                "jobCity" : "Tuscaloosa",
+                "startTime" : "8:00 AM",
+                "orderDeliveryType" : 0,
+                "gallonsOrdered" : 600,
+                "jobName" : "Kree_tpojob",
+                "locationType" : 1,
+                "isDriverToUpdateBOL" : false,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "companyName" : "Marvell",
+                "loadCode" : null,
+                "enrouteDeliveryStatus" : 4,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 18.56287,
+                        "longitude" : 73.911552299999997,
+                        "id" : 0,
+                        "address" : "1501 Skyland Blvd E, Tuscaloosa, Alabama, 35405",
+                        "status" : 1
+                    }
+                ],
+                "jobAddress" : "1501 Skyland Blvd E",
+                "orderId" : 7015,
+                "fuelPickUpLocation" : {
+                    "address" : "2625 US Highway 78 E",
+                    "countyName" : "Calhoun County",
+                    "isPickUpLocation" : false,
+                    "terminalId" : 43,
+                    "stateCode" : "AL",
+                    "latitude" : 33.615696,
+                    "countryCode" : "USA",
+                    "terminalName" : "Murphy Oil - Oxford",
+                    "city" : "Anniston",
+                    "zipCode" : "36207",
+                    "id" : null,
+                    "longitude" : -85.776314999999997
+                },
+                "jobZip" : "35405",
+                "isFTL" : false,
+                "deliveryScheduleId" : 0,
+                "unitOfMeasurement" : 1,
+                "poNumber" : "acc",
+                "utcStartTime" : 1573804800000,
+                "utcEndTime" : 1573837200000,
+                "fuelType" : "Jet Fuel",
+                "customerSignatureRequired" : false,
+                "currency" : 1,
+                "endTime" : "5:00 PM"
+            },
+            {
+                "orderId" : 7445,
+                "jobZip" : "S0M 0J0",
+                "utcStartTime" : 1573804800000,
+                "jobCity" : "Buffalo Narrows",
+                "deliveryScheduleId" : 0,
+                "jobState" : "Saskatchewan",
+                "driverDeliveryDetails" : {
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobName" : "Buffalo Narrows job",
+                    "jobLatitude" : 55.855159,
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobCity" : "Buffalo Narrows",
+                    "jobZip" : "S0M 0J0",
+                    "jobAddress" : "Buffalo Narrows",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 7445
+                    },
+                    "jobLongitude" : -108.48211999999999,
+                    "companyName" : "Marvell",
+                    "jobState" : "Saskatchewan"
+                },
+                "fuelType" : "Clear Diesel #2 - ULS",
+                "currency" : 2,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "canada tpo",
+                "jobId" : 3309,
+                "jobAddress" : "Buffalo Narrows",
+                "enrouteDeliveryStatus" : 2,
+                "companyName" : "Marvell",
+                "unitOfMeasurement" : 2,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 55.855159,
+                        "longitude" : -108.48211999999999,
+                        "id" : 0,
+                        "address" : "Buffalo Narrows, Buffalo Narrows, Saskatchewan, S0M 0J0",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Buffalo Narrows job",
+                "supplierSource" : null,
+                "trackableScheduleId" : 0,
+                "isDriverToUpdateBOL" : false,
+                "gallonsOrdered" : 600,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "zipCode" : "T6P 1V9",
+                    "latitude" : 53.528022,
+                    "longitude" : -113.347904,
+                    "terminalName" : "Shell - Edmonton - Sherwood",
+                    "id" : null,
+                    "isPickUpLocation" : false,
+                    "terminalId" : 1437,
+                    "stateCode" : "AB",
+                    "countyName" : "Division No. 11",
+                    "address" : "251 92 Avenue",
+                    "city" : "EDMONTON",
+                    "countryCode" : "CAN"
+                }
+            },
+            {
+                "orderId" : 7799,
+                "jobZip" : "94566",
+                "utcStartTime" : 1573804800000,
+                "jobCity" : "Pleasanton",
+                "deliveryScheduleId" : 0,
+                "jobState" : "California",
+                "driverDeliveryDetails" : {
+                    "companyName" : "AC-DC",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobAddress" : "8500 Clubhouse Dr",
+                    "jobName" : "Pleasanton job",
+                    "jobCity" : "Pleasanton",
+                    "jobState" : "California",
+                    "jobLongitude" : -121.86061050000001,
+                    "contactPersons" : [
+                        {
+                            "id" : 1678,
+                            "companyName" : null,
+                            "statusCode" : 1,
+                            "failedStatusCode" : 0,
+                            "entityId" : 0,
+                            "name" : "Peter Parker",
+                            "statusMessage" : "Failed",
+                            "companyId" : 0,
+                            "displayMode" : 0,
+                            "email" : "peteronsite@mailinator.com",
+                            "isPhoneNumberConfirmed" : false,
+                            "phoneNumber" : "7554125414",
+                            "entityNumber" : null
+                        }
+                    ],
+                    "jobZip" : "94566",
+                    "jobLatitude" : 37.626474899999998,
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 7799
+                    }
+                },
+                "fuelType" : "Red Dye Diesel #2 - ULS",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "editinvoice_01",
+                "jobId" : 3319,
+                "jobAddress" : "8500 Clubhouse Dr",
+                "enrouteDeliveryStatus" : 4,
+                "companyName" : "AC-DC",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 37.626474899999998,
+                        "longitude" : -121.86061050000001,
+                        "id" : 0,
+                        "address" : "8500 Clubhouse Dr, Pleasanton, California, 94566",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Pleasanton job",
+                "supplierSource" : null,
+                "trackableScheduleId" : 0,
+                "isDriverToUpdateBOL" : false,
+                "gallonsOrdered" : 4200,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "latitude" : 39.533397000000001,
+                    "stateCode" : "NV",
+                    "address" : "301 Nugget Ave",
+                    "countyName" : "Washoe County",
+                    "countryCode" : "USA",
+                    "isPickUpLocation" : false,
+                    "city" : "Sparks",
+                    "id" : null,
+                    "terminalName" : "SFPP - Sparks",
+                    "zipCode" : "89431",
+                    "terminalId" : 1142,
+                    "longitude" : -119.74563999999999
+                }
+            },
+            {
+                "orderId" : 7853,
+                "jobCity" : "Wetumpka",
+                "jobZip" : "36092",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Alabama",
+                "driverDeliveryDetails" : {
+                    "companyName" : "Marvell",
+                    "jobName" : "23750",
+                    "jobLongitude" : -86.212355599999995,
+                    "jobZip" : "36092",
+                    "contactPersons" : [
+                        
+                    ],
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobAddress" : "4538 Us Hwy 231, Wetumpka AL ",
+                    "jobState" : "Alabama",
+                    "jobLatitude" : 32.506981099999997,
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 7853
+                    },
+                    "jobCity" : "Wetumpka"
+                },
+                "fuelType" : "Conv. 87 Unleaded",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "petrotrac+freight_editinvoicetest",
+                "jobId" : 3425,
+                "jobAddress" : "4538 Us Hwy 231, Wetumpka AL ",
+                "enrouteDeliveryStatus" : 2,
+                "companyName" : "Marvell",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 32.506981099999997,
+                        "longitude" : -86.212355599999995,
+                        "id" : 0,
+                        "address" : "4538 Us Hwy 231, Wetumpka AL , Wetumpka, Alabama, 36092",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "23750",
+                "isDriverToUpdateBOL" : false,
+                "supplierSource" : null,
+                "trackableScheduleId" : 0,
+                "gallonsOrdered" : 5600,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "city" : "Montgomery",
+                    "id" : null,
+                    "longitude" : -86.380927999999997,
+                    "terminalId" : 783,
+                    "stateCode" : "AL",
+                    "countryCode" : "USA",
+                    "latitude" : 32.352947999999998,
+                    "zipCode" : "36108",
+                    "isPickUpLocation" : false,
+                    "address" : "3560 Well Rd",
+                    "countyName" : "Montgomery County",
+                    "terminalName" : "Magellan - Montgomery"
+                }
+            },
+            {
+                "orderId" : 7889,
+                "jobCity" : "Wetumpka",
+                "jobZip" : "36092",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Alabama",
+                "driverDeliveryDetails" : {
+                    "jobState" : "Alabama",
+                    "jobName" : "23750",
+                    "jobLongitude" : -86.212355599999995,
+                    "companyName" : "Marvell",
+                    "jobAddress" : "4538 Us Hwy 231, Wetumpka AL ",
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobLatitude" : 32.506981099999997,
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 7889
+                    },
+                    "jobCity" : "Wetumpka",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobZip" : "36092"
+                },
+                "fuelType" : "Conv. 87 Unleaded",
+                "currency" : 1,
+                "orderDeliveryType" : 1,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "check_freightfee",
+                "jobId" : 3425,
+                "jobAddress" : "4538 Us Hwy 231, Wetumpka AL ",
+                "enrouteDeliveryStatus" : 2,
+                "companyName" : "Marvell",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 32.506981099999997,
+                        "longitude" : -86.212355599999995,
+                        "id" : 0,
+                        "address" : "4538 Us Hwy 231, Wetumpka AL , Wetumpka, Alabama, 36092",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "23750",
+                "isDriverToUpdateBOL" : false,
+                "trackableScheduleId" : 0,
+                "supplierSource" : null,
+                "gallonsOrdered" : 6566,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "countryCode" : "USA",
+                    "longitude" : -86.380927999999997,
+                    "terminalId" : 783,
+                    "isPickUpLocation" : false,
+                    "terminalName" : "Magellan - Montgomery",
+                    "latitude" : 32.352947999999998,
+                    "city" : "Montgomery",
+                    "zipCode" : "36108",
+                    "countyName" : "Montgomery County",
+                    "address" : "3560 Well Rd",
+                    "stateCode" : "AL",
+                    "id" : null
+                }
+            },
+            {
+                "orderId" : 7892,
+                "jobCity" : "Carlsbad",
+                "jobZip" : "88220",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "New Mexico",
+                "driverDeliveryDetails" : {
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 7892
+                    },
+                    "jobAddress" : "1505 Terminal Dr, Carlsbad, NM ",
+                    "companyName" : "AC-DC",
+                    "jobLatitude" : 32.345585200000002,
+                    "jobName" : "Pro-forma job [Without Approval]",
+                    "jobState" : "New Mexico",
+                    "jobCity" : "Carlsbad",
+                    "jobLongitude" : -104.25269539999999,
+                    "specialInstructions" : [
+                        
+                    ],
+                    "contactPersons" : [
+                        {
+                            "phoneNumber" : "7554125414",
+                            "email" : "peteronsite@mailinator.com",
+                            "companyId" : 0,
+                            "statusCode" : 1,
+                            "failedStatusCode" : 0,
+                            "name" : "Peter Parker",
+                            "isPhoneNumberConfirmed" : false,
+                            "entityId" : 0,
+                            "id" : 1678,
+                            "displayMode" : 0,
+                            "entityNumber" : null,
+                            "statusMessage" : "Failed",
+                            "companyName" : null
+                        }
+                    ],
+                    "jobZip" : "88220"
+                },
+                "fuelType" : "Heat Oil #2 - Temperature Correct",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "TEMP_Pro-forma job_8_edit_01",
+                "jobId" : 3426,
+                "jobAddress" : "1505 Terminal Dr, Carlsbad, NM ",
+                "enrouteDeliveryStatus" : 4,
+                "companyName" : "AC-DC",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 32.345585200000002,
+                        "longitude" : -104.25269539999999,
+                        "id" : 0,
+                        "address" : "1505 Terminal Dr, Carlsbad, NM , Carlsbad, New Mexico, 88220",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Pro-forma job [Without Approval]",
+                "isDriverToUpdateBOL" : false,
+                "supplierSource" : null,
+                "trackableScheduleId" : 0,
+                "gallonsOrdered" : 650,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "terminalName" : "Chevron USA - Salt Lake City",
+                    "id" : null,
+                    "longitude" : -111.92150700000001,
+                    "isPickUpLocation" : false,
+                    "stateCode" : "UT",
+                    "terminalId" : 1096,
+                    "countryCode" : "USA",
+                    "countyName" : "Davis County",
+                    "latitude" : 40.822580000000002,
+                    "address" : "2350 North 1100 West",
+                    "zipCode" : "84116",
+                    "city" : "Salt Lake City"
+                }
+            },
+            {
+                "orderId" : 7953,
+                "jobCity" : "New Orleans",
+                "jobZip" : "70148",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Louisiana",
+                "driverDeliveryDetails" : {
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobLongitude" : 73.911552299999997,
+                    "jobAddress" : "2000 Lakeshore Dr",
+                    "jobName" : "TPO_Signature Job",
+                    "jobLatitude" : 18.56287,
+                    "companyName" : "Marvell",
+                    "jobCity" : "New Orleans",
+                    "jobState" : "Louisiana",
+                    "jobZip" : "70148",
+                    "contactPersons" : [
+                        
+                    ],
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 7953
+                    }
+                },
+                "fuelType" : "Red Dye Diesel - Carb - ULS",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "qwertyuiopoasdfghjklzxcvbnm,.qwertyui",
+                "jobId" : 3440,
+                "jobAddress" : "2000 Lakeshore Dr",
+                "enrouteDeliveryStatus" : 4,
+                "companyName" : "Marvell",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 18.56287,
+                        "longitude" : 73.911552299999997,
+                        "id" : 0,
+                        "address" : "2000 Lakeshore Dr, New Orleans, Louisiana, 70148",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "TPO_Signature Job",
+                "isDriverToUpdateBOL" : false,
+                "trackableScheduleId" : 0,
+                "supplierSource" : null,
+                "gallonsOrdered" : 6500,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "latitude" : 32.825077,
+                    "city" : "Imperial",
+                    "countyName" : "Imperial County",
+                    "stateCode" : "CA",
+                    "address" : "345 W Aten Rd",
+                    "countryCode" : "USA",
+                    "zipCode" : "92251",
+                    "id" : null,
+                    "isPickUpLocation" : false,
+                    "terminalId" : 568,
+                    "longitude" : -115.56538,
+                    "terminalName" : "SFPP - Imperial"
+                }
+            },
+            {
+                "orderId" : 8142,
+                "jobCity" : "Mountain Brook",
+                "jobZip" : "35216",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Alabama",
+                "driverDeliveryDetails" : {
+                    "jobState" : "Alabama",
+                    "jobCity" : "Mountain Brook",
+                    "jobLongitude" : 73.905085299999996,
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobLatitude" : 18.5645919,
+                    "jobName" : "job_w\/o approval_email",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobZip" : "35216",
+                    "companyName" : "Marvel Universe",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 8142
+                    },
+                    "jobAddress" : "1300 Montgomery Highway"
+                },
+                "fuelType" : "Vin Diesel",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "BROKEREDTPO",
+                "jobId" : 3465,
+                "jobAddress" : "1300 Montgomery Highway",
+                "enrouteDeliveryStatus" : 4,
+                "companyName" : "Marvel Universe",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 18.5645919,
+                        "longitude" : 73.905085299999996,
+                        "id" : 0,
+                        "address" : "1300 Montgomery Highway, Mountain Brook, Alabama, 35216",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "job_w\/o approval_email",
+                "isDriverToUpdateBOL" : false,
+                "supplierSource" : null,
+                "trackableScheduleId" : 0,
+                "gallonsOrdered" : 8680,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : true,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : null
+            },
+            {
+                "orderId" : 8178,
+                "jobCity" : "Berkeley",
+                "jobZip" : "94704",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "California",
+                "driverDeliveryDetails" : {
+                    "jobName" : "22222",
+                    "jobState" : "California",
+                    "jobLatitude" : 37.8687623,
+                    "specialInstructions" : [
+                        
+                    ],
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 8178
+                    },
+                    "companyName" : "Buyer Account 3 42332",
+                    "jobCity" : "Berkeley",
+                    "jobAddress" : "2223 Fulton St",
+                    "jobLongitude" : -122.26583669999999,
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobZip" : "94704"
+                },
+                "fuelType" : "Clear Diesel #2 - ULS (Texas)",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "non-proforma_order2",
+                "jobId" : 3176,
+                "jobAddress" : "2223 Fulton St",
+                "enrouteDeliveryStatus" : 2,
+                "companyName" : "Buyer Account 3 42332",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 37.8687623,
+                        "longitude" : -122.26583669999999,
+                        "id" : 0,
+                        "address" : "2223 Fulton St, Berkeley, California, 94704",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "22222",
+                "isDriverToUpdateBOL" : false,
+                "supplierSource" : null,
+                "trackableScheduleId" : 0,
+                "gallonsOrdered" : 333,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "terminalName" : "Valero Refining Company - Oklahoma",
+                    "longitude" : -97.108969999999999,
+                    "address" : "Hwy 142 Bypass",
+                    "countyName" : "Carter County",
+                    "isPickUpLocation" : false,
+                    "terminalId" : 52,
+                    "stateCode" : "OK",
+                    "city" : "Ardmore",
+                    "zipCode" : "73402",
+                    "latitude" : 34.201749,
+                    "countryCode" : "USA",
+                    "id" : null
+                }
+            },
+            {
+                "orderId" : 8258,
+                "jobCity" : "Stowe",
+                "jobZip" : "05672",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Vermont",
+                "driverDeliveryDetails" : {
+                    "jobZip" : "05672",
+                    "jobName" : "Vermont_tpo_job",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "companyName" : "Marvell",
+                    "jobState" : "Vermont",
+                    "jobLatitude" : 44.4720613,
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 8258
+                    },
+                    "jobCity" : "Stowe",
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobAddress" : "1613 Mountain Rd",
+                    "jobLongitude" : -72.708504399999995
+                },
+                "fuelType" : "89 Unleaded - Carb Reform (w\/10% Eth) (CA)",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : true,
+                "startTime" : "8:00 AM",
+                "poNumber" : "TPO_invoiceadjustment",
+                "jobId" : 3508,
+                "jobAddress" : "1613 Mountain Rd",
+                "enrouteDeliveryStatus" : 2,
+                "companyName" : "Marvell",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 44.4720613,
+                        "longitude" : -72.708504399999995,
+                        "id" : 0,
+                        "address" : "1613 Mountain Rd, Stowe, Vermont, 05672",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Vermont_tpo_job",
+                "isDriverToUpdateBOL" : false,
+                "supplierSource" : null,
+                "trackableScheduleId" : 0,
+                "gallonsOrdered" : 5000,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "address" : "34277 Yermo Daggett Rd",
+                    "countyName" : "San Bernardino County",
+                    "countryCode" : "USA",
+                    "latitude" : 34.875650999999998,
+                    "city" : "Daggett",
+                    "isPickUpLocation" : false,
+                    "longitude" : -116.88737999999999,
+                    "terminalId" : 154,
+                    "id" : null,
+                    "terminalName" : "Calnev Pipe Line LLC",
+                    "zipCode" : "92327",
+                    "stateCode" : "CA"
+                }
+            },
+            {
+                "orderId" : 8456,
+                "jobCity" : "Stowe",
+                "jobZip" : "05672",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Vermont",
+                "driverDeliveryDetails" : {
+                    "jobAddress" : "1613 Mountain Rd",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 8456
+                    },
+                    "jobName" : "Vermont_tpo_job",
+                    "jobZip" : "05672",
+                    "companyName" : "Marvell",
+                    "jobCity" : "Stowe",
+                    "jobLatitude" : 44.4720613,
+                    "specialInstructions" : [
+                        
+                    ],
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobState" : "Vermont",
+                    "jobLongitude" : -72.708504399999995
+                },
+                "fuelType" : "Jet Fuel",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : true,
+                "startTime" : "8:00 AM",
+                "poNumber" : "TPO_NS",
+                "jobId" : 3508,
+                "jobAddress" : "1613 Mountain Rd",
+                "enrouteDeliveryStatus" : 0,
+                "companyName" : "Marvell",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 44.4720613,
+                        "longitude" : -72.708504399999995,
+                        "id" : 0,
+                        "address" : "1613 Mountain Rd, Stowe, Vermont, 05672",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Vermont_tpo_job",
+                "isDriverToUpdateBOL" : false,
+                "supplierSource" : null,
+                "trackableScheduleId" : 0,
+                "gallonsOrdered" : 9999999,
+                "supplierContract" : null,
+                "quantityTypeId" : 3,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "id" : null,
+                    "countyName" : "Fairfax County",
+                    "stateCode" : "VA",
+                    "latitude" : 38.732267999999998,
+                    "address" : "8206 Terminal Rd",
+                    "city" : "Lorton",
+                    "terminalName" : "Kinder Morgan - Springfield",
+                    "countryCode" : "USA",
+                    "zipCode" : "22079",
+                    "isPickUpLocation" : false,
+                    "terminalId" : 1138,
+                    "longitude" : -77.193062999999995
+                }
+            },
+            {
+                "orderId" : 8587,
+                "jobCity" : "Sanger",
+                "jobZip" : "93657",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "California",
+                "driverDeliveryDetails" : {
+                    "jobLatitude" : 18.5645919,
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 8587
+                    },
+                    "jobZip" : "93657",
+                    "jobState" : "California",
+                    "jobName" : "Proforma+California job",
+                    "companyName" : "S.H.I.E.L.D",
+                    "jobAddress" : "2590 Jensen Ave",
+                    "jobCity" : "Sanger",
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobLongitude" : 73.905085299999996,
+                    "specialInstructions" : [
+                        
+                    ]
+                },
+                "fuelType" : "Conv. 89 Unleaded",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "broker_drFT",
+                "jobId" : 3499,
+                "jobAddress" : "2590 Jensen Ave",
+                "enrouteDeliveryStatus" : 4,
+                "companyName" : "S.H.I.E.L.D",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 18.5645919,
+                        "longitude" : 73.905085299999996,
+                        "id" : 0,
+                        "address" : "2590 Jensen Ave, Sanger, California, 93657",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Proforma+California job",
+                "isDriverToUpdateBOL" : false,
+                "trackableScheduleId" : 0,
+                "supplierSource" : null,
+                "gallonsOrdered" : 5000,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "zipCode" : "79766",
+                    "terminalId" : 882,
+                    "latitude" : 31.820689000000002,
+                    "stateCode" : "TX",
+                    "id" : null,
+                    "countyName" : "Ector County",
+                    "address" : "2700 S Grandview Ave",
+                    "longitude" : -102.3296,
+                    "countryCode" : "USA",
+                    "isPickUpLocation" : false,
+                    "terminalName" : "Magellan Pipeline - Odessa",
+                    "city" : "Odessa"
+                }
+            },
+            {
+                "orderId" : 8922,
+                "jobCity" : "Monroe County",
+                "jobZip" : "47403",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Indiana",
+                "driverDeliveryDetails" : {
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobState" : "Indiana",
+                    "jobLongitude" : 73.905085299999996,
+                    "jobCity" : "Monroe County",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 8922
+                    },
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobLatitude" : 18.5645919,
+                    "companyName" : "company123",
+                    "jobZip" : "47403",
+                    "jobAddress" : "1655 South Oakdale Drive Bloomington",
+                    "jobName" : "Tax_exempt job1"
+                },
+                "fuelType" : "(20% BioDsl) - Red Dye Diesel (Premium) - ULS",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "qb_testing1",
+                "jobId" : 2194,
+                "jobAddress" : "1655 South Oakdale Drive Bloomington",
+                "enrouteDeliveryStatus" : 4,
+                "companyName" : "company123",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 18.5645919,
+                        "longitude" : 73.905085299999996,
+                        "id" : 0,
+                        "address" : "1655 South Oakdale Drive Bloomington, Monroe County, Indiana, 47403",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Tax_exempt job1",
+                "isDriverToUpdateBOL" : false,
+                "trackableScheduleId" : 0,
+                "supplierSource" : null,
+                "gallonsOrdered" : 250,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "address" : "2503 SE 43rd St",
+                    "longitude" : -93.528687000000005,
+                    "isPickUpLocation" : false,
+                    "stateCode" : "IA",
+                    "terminalId" : 371,
+                    "countyName" : "Polk County",
+                    "latitude" : 41.563412999999997,
+                    "terminalName" : "Magellan Pipeline - Pleasant Hills",
+                    "city" : "Des Moines",
+                    "countryCode" : "USA",
+                    "id" : null,
+                    "zipCode" : "50327"
+                }
+            },
+            {
+                "orderId" : 8923,
+                "jobCity" : "Tallassee",
+                "jobZip" : "36078",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Alabama",
+                "driverDeliveryDetails" : {
+                    "jobLatitude" : 18.56287,
+                    "jobZip" : "36078",
+                    "jobLongitude" : 73.911552299999997,
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobAddress" : "1300 Gilmer Ave",
+                    "jobState" : "Alabama",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 8923
+                    },
+                    "jobName" : "Tallassee QB job",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "companyName" : "QB_TPO",
+                    "jobCity" : "Tallassee"
+                },
+                "fuelType" : "Clear Diesel #2 - ULS (Texas)",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "qb_tpo_1",
+                "jobId" : 3640,
+                "jobAddress" : "1300 Gilmer Ave",
+                "enrouteDeliveryStatus" : 4,
+                "companyName" : "QB_TPO",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 18.56287,
+                        "longitude" : 73.911552299999997,
+                        "id" : 0,
+                        "address" : "1300 Gilmer Ave, Tallassee, Alabama, 36078",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Tallassee QB job",
+                "isDriverToUpdateBOL" : false,
+                "supplierSource" : null,
+                "trackableScheduleId" : 0,
+                "gallonsOrdered" : 9999999,
+                "supplierContract" : null,
+                "quantityTypeId" : 3,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "stateCode" : "LA",
+                    "latitude" : 32.797560990000001,
+                    "terminalName" : "Calumet Lubricants Co LP",
+                    "city" : "Cotton Valley",
+                    "zipCode" : "71018",
+                    "id" : null,
+                    "countryCode" : "USA",
+                    "longitude" : -93.415111229999994,
+                    "countyName" : "Webster Parish",
+                    "isPickUpLocation" : false,
+                    "address" : "U S Hwy 371 South",
+                    "terminalId" : 1081
+                }
+            },
+            {
+                "orderId" : 8948,
+                "jobCity" : "Florida City",
+                "jobZip" : "33034",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Florida",
+                "driverDeliveryDetails" : {
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 8948
+                    },
+                    "jobLongitude" : 73.905085299999996,
+                    "jobCity" : "Florida City",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobAddress" : "411 S Krome Ave",
+                    "companyName" : "S.H.I.E.L.D",
+                    "jobState" : "Florida",
+                    "jobName" : "auto-Florida City job",
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobZip" : "33034",
+                    "jobLatitude" : 18.5645919
+                },
+                "fuelType" : "90 carb lead oil",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "other_qb2",
+                "jobId" : 3586,
+                "jobAddress" : "411 S Krome Ave",
+                "enrouteDeliveryStatus" : 4,
+                "companyName" : "S.H.I.E.L.D",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 18.5645919,
+                        "longitude" : 73.905085299999996,
+                        "id" : 0,
+                        "address" : "411 S Krome Ave, Florida City, Florida, 33034",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "auto-Florida City job",
+                "isDriverToUpdateBOL" : false,
+                "trackableScheduleId" : 0,
+                "supplierSource" : null,
+                "gallonsOrdered" : 2300,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : null
+            },
+            {
+                "orderId" : 9088,
+                "jobCity" : "Tuscaloosa",
+                "jobZip" : "35405",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Alabama",
+                "driverDeliveryDetails" : {
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 9088
+                    },
+                    "jobLongitude" : 73.911552299999997,
+                    "jobCity" : "Tuscaloosa",
+                    "specialInstructions" : [
+                        "sp1",
+                        "sp2"
+                    ],
+                    "jobAddress" : "1501 Skyland Blvd E",
+                    "companyName" : "Marvell",
+                    "jobState" : "Alabama",
+                    "jobName" : "Kree_tpojob",
+                    "contactPersons" : [
+                        {
+                            "phoneNumber" : "7559450845",
+                            "email" : "captmarvel@mailinator.com",
+                            "statusCode" : 1,
+                            "companyId" : 0,
+                            "failedStatusCode" : 0,
+                            "name" : "Carol C",
+                            "isPhoneNumberConfirmed" : false,
+                            "entityId" : 0,
+                            "id" : 1591,
+                            "displayMode" : 0,
+                            "entityNumber" : null,
+                            "statusMessage" : "Failed",
+                            "companyName" : null
+                        },
+                        {
+                            "phoneNumber" : "755-945-0845",
+                            "email" : "swati@mailinator.com",
+                            "statusCode" : 1,
+                            "companyId" : 0,
+                            "failedStatusCode" : 0,
+                            "name" : "Swati S",
+                            "isPhoneNumberConfirmed" : false,
+                            "entityId" : 0,
+                            "id" : 2112,
+                            "displayMode" : 0,
+                            "entityNumber" : null,
+                            "statusMessage" : "Failed",
+                            "companyName" : null
+                        }
+                    ],
+                    "jobZip" : "35405",
+                    "jobLatitude" : 18.56287
+                },
+                "fuelType" : "Clear Diesel #2 - ULS",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : true,
+                "startTime" : "8:00 AM",
+                "poNumber" : "tpo_si",
+                "jobId" : 2834,
+                "jobAddress" : "1501 Skyland Blvd E",
+                "enrouteDeliveryStatus" : 4,
+                "companyName" : "Marvell",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 18.56287,
+                        "longitude" : 73.911552299999997,
+                        "id" : 0,
+                        "address" : "1501 Skyland Blvd E, Tuscaloosa, Alabama, 35405",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Kree_tpojob",
+                "isDriverToUpdateBOL" : false,
+                "trackableScheduleId" : 0,
+                "supplierSource" : null,
+                "gallonsOrdered" : 9999999,
+                "supplierContract" : null,
+                "quantityTypeId" : 3,
+                "isFTL" : true,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "city" : "Boligee",
+                    "zipCode" : "35443",
+                    "terminalId" : 122,
+                    "id" : null,
+                    "stateCode" : "AL",
+                    "countryCode" : "USA",
+                    "address" : "2081 County Rd 89",
+                    "latitude" : 32.787996,
+                    "countyName" : "Greene County",
+                    "isPickUpLocation" : false,
+                    "longitude" : -88.062054000000003,
+                    "terminalName" : "Enterprise - Boligee"
+                }
+            },
+            {
+                "orderId" : 9108,
+                "jobCity" : "Kingston",
+                "jobZip" : "12401",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "New York",
+                "driverDeliveryDetails" : {
+                    "jobLatitude" : 41.972612599999998,
+                    "companyName" : "amp_mansfeild_tpo",
+                    "jobAddress" : "601 Frank Stottile Blvd",
+                    "jobState" : "New York",
+                    "jobCity" : "Kingston",
+                    "jobLongitude" : -73.985126300000005,
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 9108
+                    },
+                    "jobName" : "11123",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobZip" : "12401",
+                    "contactPersons" : [
+                        
+                    ]
+                },
+                "fuelType" : "Clear Diesel #2 - ULS",
+                "currency" : 1,
+                "orderDeliveryType" : 1,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "amp1",
+                "jobId" : 2709,
+                "jobAddress" : "601 Frank Stottile Blvd",
+                "enrouteDeliveryStatus" : 2,
+                "companyName" : "amp_mansfeild_tpo",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 41.972612599999998,
+                        "id" : 0,
+                        "address" : "601 Frank Stottile Blvd, Kingston, New York, 12401",
+                        "isJobLocation" : true,
+                        "longitude" : -73.985126300000005
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "11123",
+                "isDriverToUpdateBOL" : false,
+                "trackableScheduleId" : 0,
+                "supplierSource" : null,
+                "gallonsOrdered" : 3434,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "countryCode" : "USA",
+                    "terminalName" : "Buckeye - Roseton",
+                    "address" : "924 River Rd",
+                    "city" : "Newburgh",
+                    "longitude" : -73.979089999999999,
+                    "latitude" : 41.564495999999998,
+                    "id" : null,
+                    "terminalId" : 811,
+                    "countyName" : "Orange County",
+                    "stateCode" : "NY",
+                    "isPickUpLocation" : false,
+                    
+                    "zipCode" : "12550"
+                }
+            },
+            {
+                "fuelType" : "Clear Diesel #2 - ULS",
+                "utcStartTime" : 1573805220000,
+                "unitOfMeasurement" : 1,
+                "supplierContract" : null,
+                "gallonsOrdered" : 50,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 18.56287,
+                        "id" : 0,
+                        "address" : "1608 W Magnolia Ave, Geneva, Alabama, 36340",
+                        "isJobLocation" : true,
+                        "longitude" : 73.911552299999997
+                    }
+                ],
+                "trackableScheduleId" : 145787,
+                "companyName" : "Hell",
+                "utcEndTime" : 1573826640000,
+                "loadCode" : null,
+                "isFTL" : true,
+                "deliveryScheduleId" : 9283,
+                "jobId" : 3719,
+                "endTime" : "2:04 PM",
+                "quantityTypeId" : 1,
+                "orderDeliveryType" : 0,
+                "customerSignatureRequired" : false,
+                "jobAddress" : "1608 W Magnolia Ave",
+                "enrouteDeliveryStatus" : 0,
+                "jobZip" : "36340",
+                "orderId" : 9207,
+                "jobName" : "Hell",
+                "jobCity" : "Geneva",
+                "supplierSource" : null,
+                "currency" : 1,
+                "isDriverToUpdateBOL" : false,
+                "startTime" : "8:07 AM",
+                "locationType" : 1,
+                "poNumber" : "used by abhinav1",
+                "jobState" : "Alabama",
+                "fuelPickUpLocation" : {
+                    "countyName" : "Walton County",
+                    "city" : "Freeport",
+                    "id" : null,
+                    "terminalId" : 446,
+                    "terminalName" : "Murphy Oil - Freeport",
+                    "countryCode" : "USA",
+                    "longitude" : -86.138283999999999,
+                    "latitude" : 30.491987000000002,
+                    "address" : "424 Madison St",
+                    "zipCode" : "32439",
+                    "stateCode" : "FL",
+                    "isPickUpLocation" : false
+                },
+                "driverDeliveryDetails" : {
+                    "jobZip" : "36340",
+                    "jobCity" : "Geneva",
+                    "jobAddress" : "1608 W Magnolia Ave",
+                    "jobState" : "Alabama",
+                    "jobLongitude" : 73.911552299999997,
+                    "contactPersons" : [
+                        {
+                            "entityId" : 0,
+                            "displayMode" : 0,
+                            "companyId" : 0,
+                            "name" : "Maze M",
+                            "entityNumber" : null,
+                            "email" : "maze@mailinator.com",
+                            "failedStatusCode" : 0,
+                            "phoneNumber" : "123-456-7890",
+                            "statusMessage" : "Failed",
+                            "isPhoneNumberConfirmed" : false,
+                            "companyName" : null,
+                            "statusCode" : 1,
+                            "id" : 2509
+                        }
+                    ],
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 9207
+                    },
+                    "jobName" : "Hell",
+                    "jobLatitude" : 18.56287,
+                    "specialInstructions" : [
+                        
+                    ],
+                    "companyName" : "Hell"
+                }
+            },
+            {
+                "fuelType" : "Jet",
+                "utcStartTime" : 1573795500000,
+                "unitOfMeasurement" : 1,
+                "supplierContract" : null,
+                "gallonsOrdered" : 50,
+                "dropLocations" : [
+                    
+                ],
+                "trackableScheduleId" : 146177,
+                "companyName" : "QRC#12",
+                "utcEndTime" : 1573856760000,
+                "loadCode" : null,
+                "isFTL" : true,
+                "deliveryScheduleId" : 9610,
+                "jobId" : 3825,
+                "endTime" : "10:26 PM",
+                "quantityTypeId" : 1,
+                "orderDeliveryType" : 0,
+                "customerSignatureRequired" : false,
+                "jobAddress" : "Various",
+                "enrouteDeliveryStatus" : 1,
+                "jobZip" : "Various",
+                "orderId" : 9485,
+                "jobName" : "SF-2",
+                "jobCity" : "Various",
+                "supplierSource" : null,
+                "currency" : 1,
+                "isDriverToUpdateBOL" : false,
+                "startTime" : "5:25 AM",
+                "locationType" : 3,
+                "poNumber" : "check price on weekend",
+                "jobState" : "California",
+                "fuelPickUpLocation" : {
+                    "countyName" : "Contra Costa County",
+                    "city" : "Richmond",
+                    "id" : null,
+                    "terminalId" : 992,
+                    "terminalName" : "ConocoPhillips - Richmond",
+                    "countryCode" : "USA",
+                    "longitude" : -122.36855,
+                    "latitude" : 37.915019000000001,
+                    "address" : "1300 Canal Blvd",
+                    "zipCode" : "94804",
+                    "stateCode" : "CA",
+                    "isPickUpLocation" : false
+                },
+                "driverDeliveryDetails" : {
+                    "jobZip" : "Various",
+                    "jobCity" : "Various",
+                    "jobAddress" : "Various",
+                    "jobState" : "California",
+                    "jobLongitude" : 0,
+                    "contactPersons" : [
+                        
+                    ],
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 9485
+                    },
+                    "jobName" : "SF-2",
+                    "jobLatitude" : 0,
+                    "specialInstructions" : [
+                        
+                    ],
+                    "companyName" : "QRC#12"
+                }
+            },
+            {
+                "fuelType" : "Red Dye Diesel #2 - ULS",
+                "utcStartTime" : 1573804800000,
+                "unitOfMeasurement" : 1,
+                "supplierContract" : null,
+                "gallonsOrdered" : 6500,
+                "dropLocations" : [
+                    {
+                        "status" : 1,
+                        "latitude" : 37.626740499999997,
+                        "id" : 0,
+                        "address" : "8500 Clubhouse Dr, Pleasanton, California, 94566",
+                        "isJobLocation" : true,
+                        "longitude" : -121.86037589999999
+                    }
+                ],
+                "trackableScheduleId" : 0,
+                "companyName" : "Tanker Co",
+                "utcEndTime" : 1573837200000,
+                "loadCode" : null,
+                "isFTL" : false,
+                "deliveryScheduleId" : 0,
+                "jobId" : 4063,
+                "endTime" : "5:00 PM",
+                "quantityTypeId" : 1,
+                "orderDeliveryType" : 0,
+                "customerSignatureRequired" : false,
+                "jobAddress" : "8500 Clubhouse Dr",
+                "enrouteDeliveryStatus" : 0,
+                "jobZip" : "94566",
+                "orderId" : 10143,
+                "jobName" : "Callippe Preserve Golf Course",
+                "jobCity" : "Pleasanton",
+                "supplierSource" : null,
+                "currency" : 1,
+                "isDriverToUpdateBOL" : false,
+                "startTime" : "8:00 AM",
+                "locationType" : 1,
+                "poNumber" : "tank rental order",
+                "jobState" : "California",
+                "fuelPickUpLocation" : {
+                    "countryCode" : "USA",
+                    "terminalId" : 1142,
+                    "countyName" : "Washoe County",
+                    "id" : null,
+                    "isPickUpLocation" : false,
+                    "latitude" : 39.533397000000001,
+                    "stateCode" : "NV",
+                    "terminalName" : "SFPP - Sparks",
+                    "address" : "301 Nugget Ave",
+                    "city" : "Sparks",
+                    "zipCode" : "89431",
+                    "longitude" : -119.74563999999999
+                },
+                "driverDeliveryDetails" : {
+                    "jobZip" : "94566",
+                    "jobName" : "Callippe Preserve Golf Course",
+                    "jobState" : "California",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        
+                        "id" : 10143
+                    },
+                    "jobCity" : "Pleasanton",
+                    "jobAddress" : "8500 Clubhouse Dr",
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobLatitude" : 37.626740499999997,
+                    "jobLongitude" : -121.86037589999999,
+                    "companyName" : "Tanker Co"
+                }
+            },
+            {
+                "fuelType" : "ConvClear Premium 9.0 RVP",
+                "utcStartTime" : 1573804800000,
+                "unitOfMeasurement" : 1,
+                "supplierContract" : null,
+                "gallonsOrdered" : 9999999,
+                "dropLocations" : [
+                    {
+                        "status" : 3,
+                        "latitude" : 33.340000000000003,
+                        "id" : 441,
+                        "address" : "10919 S Central Ave, Phoenix, Arizona, 85042",
+                        "isJobLocation" : true,
+                        "longitude" : -112.08
+                    },
+                    {
+                        "status" : 2,
+                        "latitude" : 36.170000000000002,
+                        "id" : 444,
+                        "address" : "Neon Museum, Las Vegas, Nevada, 89101",
+                        "isJobLocation" : false,
+                        "longitude" : -115.13
+                    }
+                ],
+                "trackableScheduleId" : 0,
+                "companyName" : "Chainsmokers",
+                "utcEndTime" : 1573837200000,
+                "loadCode" : null,
+                "isFTL" : true,
+                "deliveryScheduleId" : 0,
+                "jobId" : 4020,
+                "endTime" : "5:00 PM",
+                "quantityTypeId" : 3,
+                "orderDeliveryType" : 0,
+                "customerSignatureRequired" : true,
+                "jobAddress" : "10919 S Central Ave",
+                "enrouteDeliveryStatus" : 4,
+                "jobZip" : "85042",
+                "orderId" : 10229,
+                "jobName" : "South Mountain Park and Preserve",
+                "jobCity" : "Phoenix",
+                "supplierSource" : null,
+                "currency" : 1,
+                "isDriverToUpdateBOL" : false,
+                "startTime" : "8:00 AM",
+                "locationType" : 1,
+                "poNumber" : "SFPO0010229",
+                "jobState" : "Arizona",
+                "fuelPickUpLocation" : {
+                    "id" : null,
+                    "longitude" : -88.949180249999998,
+                    "latitude" : 40.298011819999999,
+                    "address" : "16490 E 100 North Rd",
+                    "countryCode" : "USA",
+                    "stateCode" : "IL",
+                    "city" : "Heyworth",
+                    "countyName" : "McLean County",
+                    "isPickUpLocation" : false,
+                    "terminalName" : "Magellan Pipeline - Heyworth",
+                    "zipCode" : "61745",
+                    "terminalId" : 563
+                },
+                "driverDeliveryDetails" : {
+                    "companyName" : "Chainsmokers",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 10229
+                    },
+                    "jobName" : "South Mountain Park and Preserve",
+                    "jobCity" : "Phoenix",
+                    "jobState" : "Arizona",
+                    "jobLatitude" : 33.3467281,
+                    "jobZip" : "85042",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobAddress" : "10919 S Central Ave",
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobLongitude" : -112.0846535
+                }
+            },
+            {
+                "fuelType" : "ULSD",
+                "utcStartTime" : 1573804800000,
+                "unitOfMeasurement" : 1,
+                "supplierContract" : null,
+                "gallonsOrdered" : 9999999,
+                "dropLocations" : [
+                    
+                ],
+                "trackableScheduleId" : 0,
+                "companyName" : "SplitFTL",
+                "utcEndTime" : 1573837200000,
+                "loadCode" : null,
+                "isFTL" : true,
+                "deliveryScheduleId" : 0,
+                "jobId" : 4077,
+                "endTime" : "5:00 PM",
+                "quantityTypeId" : 3,
+                "orderDeliveryType" : 0,
+                "customerSignatureRequired" : false,
+                "jobAddress" : "Various",
+                "enrouteDeliveryStatus" : 14,
+                "jobZip" : "Various",
+                "orderId" : 10235,
+                "jobName" : "NY",
+                "jobCity" : "Various",
+                "supplierSource" : null,
+                "currency" : 1,
+                "isDriverToUpdateBOL" : false,
+                "startTime" : "8:00 AM",
+                "locationType" : 3,
+                "poNumber" : "STr-LO-Str",
+                "jobState" : "New York",
+                "fuelPickUpLocation" : {
+                    "city" : "Brooklyn",
+                    "zipCode" : "11222",
+                    "terminalId" : 133,
+                    "id" : null,
+                    "stateCode" : "NY",
+                    "countryCode" : "USA",
+                    "address" : "125 Apollo St",
+                    "latitude" : 40.729197999999997,
+                    "countyName" : "Kings County",
+                    "isPickUpLocation" : false,
+                    "longitude" : -73.938128000000006,
+                    "terminalName" : "KinderMorgan\/BP JV - Brooklyn"
+                },
+                "driverDeliveryDetails" : {
+                    "jobCity" : "Various",
+                    "jobName" : "NY",
+                    "jobAddress" : "Various",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 10235
+                    },
+                    "jobLatitude" : 0,
+                    "jobZip" : "Various",
+                    "companyName" : "SplitFTL",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobState" : "New York",
+                    "jobLongitude" : 0,
+                    "contactPersons" : [
+                        
+                    ]
+                }
+            },
+            {
+                "orderId" : 10360,
+                "jobCity" : "Dallas",
+                "jobZip" : "75227",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Texas",
+                "driverDeliveryDetails" : {
+                    "jobCity" : "Dallas",
+                    "jobName" : "Geo_job",
+                    "jobAddress" : "6700 East R L Thornton Freeway",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 10360
+                    },
+                    "jobLatitude" : 32.792636000000002,
+                    "jobZip" : "75227",
+                    "companyName" : "TPO_LTL",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobState" : "Texas",
+                    "jobLongitude" : -96.727192900000006,
+                    "contactPersons" : [
+                        
+                    ]
+                },
+                "fuelType" : "Clear Diesel #2 - ULS (Texas)",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "ltl_woassets",
+                "jobId" : 3998,
+                "jobAddress" : "6700 East R L Thornton Freeway",
+                "enrouteDeliveryStatus" : 0,
+                "companyName" : "TPO_LTL",
+                "unitOfMeasurement" : 1,
+                "locationType" : 2,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 32.792636000000002,
+                        "longitude" : -96.727192900000006,
+                        "id" : 0,
+                        "address" : "6700 East R L Thornton Freeway, Dallas, Texas, 75227",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Geo_job",
+                "isDriverToUpdateBOL" : false,
+                "trackableScheduleId" : 0,
+                "supplierSource" : null,
+                "gallonsOrdered" : 9999999,
+                "supplierContract" : null,
+                "quantityTypeId" : 3,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "city" : "Dallas",
+                    "zipCode" : "75212",
+                    "terminalId" : 327,
+                    "id" : null,
+                    "stateCode" : "TX",
+                    "countryCode" : "USA",
+                    "address" : "3900 Singleton Blvd",
+                    "latitude" : 32.778390000000002,
+                    "countyName" : "Dallas County",
+                    "isPickUpLocation" : false,
+                    "longitude" : -96.884876000000006,
+                    "terminalName" : "Motiva - Dallas"
+                }
+            },
+            {
+                "orderId" : 10384,
+                "jobCity" : "Bloomington",
+                "jobZip" : "47403",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Indiana",
+                "driverDeliveryDetails" : {
+                    "jobCity" : "Bloomington",
+                    "jobName" : "Bloomington Job_edited",
+                    "jobAddress" : "1655 South Oakdale Drive",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 10384
+                    },
+                    "jobLatitude" : 18.56287,
+                    "jobZip" : "47403",
+                    "companyName" : "LTL_Co1",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobState" : "Indiana",
+                    "jobLongitude" : 73.911552299999997,
+                    "contactPersons" : [
+                        
+                    ]
+                },
+                "fuelType" : "87 Unleaded - Carb Reform (w\/10% Eth) (CA)",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "TEMP_Bloomington Job_edited_3",
+                "jobId" : 4022,
+                "jobAddress" : "1655 South Oakdale Drive",
+                "enrouteDeliveryStatus" : 0,
+                "companyName" : "LTL_Co1",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "latitude" : 18.56287,
+                        "longitude" : 73.911552299999997,
+                        "id" : 0,
+                        "address" : "1655 South Oakdale Drive, Bloomington, Indiana, 47403",
+                        "status" : 1
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Bloomington Job_edited",
+                "isDriverToUpdateBOL" : false,
+                "trackableScheduleId" : 0,
+                "supplierSource" : null,
+                "gallonsOrdered" : 9999999,
+                "supplierContract" : null,
+                "quantityTypeId" : 3,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "terminalId" : 568,
+                    "id" : null,
+                    "latitude" : 32.825077,
+                    "city" : "Imperial",
+                    "address" : "345 W Aten Rd",
+                    "zipCode" : "92251",
+                    "countyName" : "Imperial County",
+                    "longitude" : -115.56538,
+                    "countryCode" : "USA",
+                    "stateCode" : "CA",
+                    "terminalName" : "SFPP - Imperial",
+                    "isPickUpLocation" : false
+                }
+            },
+            {
+                "orderId" : 10536,
+                "jobCity" : "Billings",
+                "jobZip" : "59101",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Montana",
+                "driverDeliveryDetails" : {
+                    "jobCity" : "Billings",
+                    "jobName" : "59101 Billings Job",
+                    "jobZip" : "59101",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 10536
+                    },
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobState" : "Montana",
+                    "jobLongitude" : -108.5096015,
+                    "jobAddress" : "608 N 27th St",
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobLatitude" : 45.787212500000003,
+                    "companyName" : "FTL test1"
+                },
+                "fuelType" : "ULSD #1",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : true,
+                "startTime" : "8:00 AM",
+                "poNumber" : "SFPO0010536",
+                "jobId" : 4127,
+                "jobAddress" : "608 N 27th St",
+                "enrouteDeliveryStatus" : 0,
+                "companyName" : "FTL test1",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "longitude" : -108.5096015,
+                        "latitude" : 45.787212500000003,
+                        "address" : "608 N 27th St, Billings, Montana, 59101",
+                        "status" : 1,
+                        "id" : 0,
+                        "isJobLocation" : true
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "59101 Billings Job",
+                "isDriverToUpdateBOL" : true,
+                "supplierSource" : null,
+                "trackableScheduleId" : 0,
+                "gallonsOrdered" : 9999999,
+                "supplierContract" : null,
+                "quantityTypeId" : 3,
+                "isFTL" : true,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "countyName" : "Cassia County",
+                    "terminalName" : "Sinclair Transport - Burley ID",
+                    "city" : "Burley",
+                    "zipCode" : "83318",
+                    "address" : "425 E Highway 81",
+                    "isPickUpLocation" : false,
+                    "countryCode" : "USA",
+                    "longitude" : -113.709502,
+                    "id" : null,
+                    "terminalId" : 139,
+                    "latitude" : 42.516357999999997,
+                    "stateCode" : "ID"
+                }
+            },
+            {
+                "orderId" : 10579,
+                "jobCity" : "Denver",
+                "jobZip" : "80230",
+                "utcStartTime" : 1573823100000,
+                "deliveryScheduleId" : 10424,
+                "jobState" : "Colorado",
+                "driverDeliveryDetails" : {
+                    "jobZip" : "80230",
+                    "jobName" : "Denver Job",
+                    "jobLongitude" : -104.8952687,
+                    "companyName" : "AC-DC",
+                    "jobLatitude" : 39.721087900000001,
+                    "jobAddress" : "7711 E Academy ",
+                    "jobCity" : "Denver",
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobState" : "Colorado",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 10579
+                    },
+                    "specialInstructions" : [
+                        
+                    ]
+                },
+                "fuelType" : "Aviation Gas",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "1:05 PM",
+                "poNumber" : "SFPO0010579",
+                "jobId" : 4112,
+                "jobAddress" : "7711 E Academy ",
+                "enrouteDeliveryStatus" : 0,
+                "companyName" : "AC-DC",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "longitude" : -104.8952687,
+                        "latitude" : 39.721087900000001,
+                        "address" : "7711 E Academy , Denver, Colorado, 80230",
+                        "status" : 1,
+                        "id" : 0,
+                        "isJobLocation" : true
+                    }
+                ],
+                "utcEndTime" : 1573837500000,
+                "jobName" : "Denver Job",
+                "isDriverToUpdateBOL" : false,
+                "supplierSource" : null,
+                "trackableScheduleId" : 146563,
+                "gallonsOrdered" : 200,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : true,
+                "endTime" : "5:05 PM",
+                "fuelPickUpLocation" : {
+                    "stateCode" : "CO",
+                    "id" : null,
+                    "countyName" : "Adams County",
+                    "latitude" : 39.759447000000002,
+                    "zipCode" : "80011",
+                    "terminalName" : "Magellan Pipeline - Aurora",
+                    "longitude" : -104.81314999999999,
+                    "terminalId" : 68,
+                    "address" : "15000 Smith Rd",
+                    "city" : "Aurora",
+                    "countryCode" : "USA",
+                    "isPickUpLocation" : false
+                }
+            },
+            {
+                "orderId" : 10729,
+                "jobCity" : "Lindstrom",
+                "jobZip" : "55045",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Minnesota",
+                "driverDeliveryDetails" : {
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobLongitude" : -92.840602799999999,
+                    "jobState" : "Minnesota",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 10729
+                    },
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobName" : "Diacritics job",
+                    "companyName" : "Amesos",
+                    "jobAddress" : "13145 St Croix Ave",
+                    "jobZip" : "55045",
+                    "jobLatitude" : 45.390074499999997,
+                    "jobCity" : "Lindstrom"
+                },
+                "fuelType" : "ULSD",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : "load #12",
+                "customerSignatureRequired" : true,
+                "startTime" : "8:00 AM",
+                "poNumber" : "SFPO0010729",
+                "jobId" : 3661,
+                "jobAddress" : "13145 St Croix Ave",
+                "enrouteDeliveryStatus" : 0,
+                "companyName" : "Amesos",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "longitude" : -92.840602799999999,
+                        "latitude" : 45.390074499999997,
+                        "address" : "13145 St Croix Ave, Lindstrom, Minnesota, 55045",
+                        "status" : 1,
+                        "id" : 0,
+                        "isJobLocation" : true
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Diacritics job",
+                "isDriverToUpdateBOL" : true,
+                "trackableScheduleId" : 0,
+                "supplierSource" : "SupplierA",
+                "gallonsOrdered" : 9999999,
+                "supplierContract" : "contract #1",
+                "quantityTypeId" : 3,
+                "isFTL" : true,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "stateCode" : "MN",
+                    "city" : "Saint Paul",
+                    "id" : null,
+                    "terminalName" : "Flint Hills - Roseville",
+                    "isPickUpLocation" : false,
+                    "countyName" : "Ramsey County",
+                    "address" : "2451 County Road C W",
+                    "countryCode" : "USA",
+                    "zipCode" : "55113",
+                    "terminalId" : 1045,
+                    "longitude" : -93.204037999999997,
+                    "latitude" : 45.0242
+                }
+            },
+            {
+                "orderId" : 10753,
+                "jobCity" : "Various",
+                "jobZip" : "Various",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "New York",
+                "driverDeliveryDetails" : {
+                    "jobLatitude" : 0,
+                    "jobCity" : "Various",
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobAddress" : "Various",
+                    "jobName" : "New York 1-platts",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobZip" : "Various",
+                    "jobState" : "New York",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 10753
+                    },
+                    "companyName" : "Marvell",
+                    "jobLongitude" : 0
+                },
+                "fuelType" : "Gasoline 93",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "platts-test1_tpo",
+                "jobId" : 4204,
+                "jobAddress" : "Various",
+                "enrouteDeliveryStatus" : 2,
+                "companyName" : "Marvell",
+                "unitOfMeasurement" : 1,
+                "locationType" : 3,
+                "dropLocations" : [
+                    {
+                        "longitude" : -73.989999999999995,
+                        "latitude" : 40.719999999999999,
+                        "address" : "New York University, New York, New York, 10012",
+                        "status" : 2,
+                        "id" : 500,
+                        "isJobLocation" : false
+                    },
+                    {
+                        "longitude" : -73.969999999999999,
+                        "latitude" : 40.759999999999998,
+                        "address" : "New York City Center, New York, New York, 10019",
+                        "status" : 1,
+                        "id" : 501,
+                        "isJobLocation" : false
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "New York 1-platts",
+                "isDriverToUpdateBOL" : false,
+                "trackableScheduleId" : 0,
+                "supplierSource" : null,
+                "gallonsOrdered" : 9999999,
+                "supplierContract" : null,
+                "quantityTypeId" : 3,
+                "isFTL" : true,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "zipCode" : "11222",
+                    "countryCode" : "USA",
+                    "terminalId" : 133,
+                    "id" : null,
+                    "countyName" : "Kings County",
+                    "isPickUpLocation" : false,
+                    "terminalName" : "KinderMorgan\/BP JV - Brooklyn",
+                    "address" : "125 Apollo St",
+                    "city" : "Brooklyn",
+                    "stateCode" : "NY",
+                    "longitude" : -73.938128000000006,
+                    "latitude" : 40.729197999999997
+                }
+            },
+            {
+                "orderId" : 10805,
+                "jobCity" : "Rockwall",
+                "jobZip" : "75032",
+                "utcStartTime" : 1573805700000,
+                "deliveryScheduleId" : 10537,
+                "jobState" : "Texas",
+                "driverDeliveryDetails" : {
+                    "jobName" : "Dallas- TX Job",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobZip" : "75032",
+                    "jobLatitude" : 18.544946800000002,
+                    "jobCity" : "Rockwall",
+                    "jobLongitude" : 73.898946300000006,
+                    "contactPersons" : [
+                        
+                    ],
+                    "companyName" : "AC-DC",
+                    "jobState" : "Texas",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 10805
+                    },
+                    "jobAddress" : "1135 S Lamar "
+                },
+                "fuelType" : "ULSD",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:15 AM",
+                "poNumber" : "SFPO0010805",
+                "jobId" : 4115,
+                "jobAddress" : "1135 S Lamar ",
+                "enrouteDeliveryStatus" : 0,
+                "companyName" : "AC-DC",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "longitude" : 73.898946300000006,
+                        "latitude" : 18.544946800000002,
+                        "address" : "1135 S Lamar , Rockwall, Texas, 75032",
+                        "status" : 1,
+                        "id" : 0,
+                        "isJobLocation" : true
+                    }
+                ],
+                "utcEndTime" : 1573820100000,
+                "jobName" : "Dallas- TX Job",
+                "isDriverToUpdateBOL" : false,
+                "supplierSource" : null,
+                "trackableScheduleId" : 149239,
+                "gallonsOrdered" : 250,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : true,
+                "endTime" : "12:15 PM",
+                "fuelPickUpLocation" : {
+                    "countyName" : "Dallas County",
+                    "address" : "3900 Singleton Blvd",
+                    "zipCode" : "75212",
+                    "terminalName" : "Motiva - Dallas",
+                    "terminalId" : 327,
+                    "isPickUpLocation" : false,
+                    "city" : "Dallas",
+                    "stateCode" : "TX",
+                    "longitude" : -96.884876000000006,
+                    "id" : null,
+                    "latitude" : 32.778390000000002,
+                    "countryCode" : "USA"
+                }
+            },
+            {
+                "orderId" : 10805,
+                "jobCity" : "Rockwall",
+                "jobZip" : "75032",
+                "utcStartTime" : 1573801560000,
+                "deliveryScheduleId" : 10533,
+                "jobState" : "Texas",
+                "driverDeliveryDetails" : {
+                    "jobState" : "Texas",
+                    "jobLongitude" : 73.898946300000006,
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobCity" : "Rockwall",
+                    "jobLatitude" : 18.544946800000002,
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobName" : "Dallas- TX Job",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 10805
+                    },
+                    "companyName" : "AC-DC",
+                    "jobZip" : "75032",
+                    "jobAddress" : "1135 S Lamar "
+                },
+                "fuelType" : "ULSD",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "7:06 AM",
+                "poNumber" : "SFPO0010805",
+                "jobId" : 4115,
+                "jobAddress" : "1135 S Lamar ",
+                "enrouteDeliveryStatus" : 4,
+                "companyName" : "AC-DC",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "longitude" : 73.898946300000006,
+                        "latitude" : 18.544946800000002,
+                        "address" : "1135 S Lamar , Rockwall, Texas, 75032",
+                        "status" : 1,
+                        "id" : 0,
+                        "isJobLocation" : true
+                    }
+                ],
+                "utcEndTime" : 1573823160000,
+                "jobName" : "Dallas- TX Job",
+                "isDriverToUpdateBOL" : false,
+                "supplierSource" : null,
+                "trackableScheduleId" : 146524,
+                "gallonsOrdered" : 500,
+                "supplierContract" : null,
+                "quantityTypeId" : 1,
+                "isFTL" : true,
+                "endTime" : "1:06 PM",
+                "fuelPickUpLocation" : {
+                    "city" : "Dallas",
+                    "latitude" : 32.778390000000002,
+                    "address" : "3900 Singleton Blvd",
+                    "countyName" : "Dallas County",
+                    "terminalId" : 327,
+                    "stateCode" : "TX",
+                    "id" : null,
+                    "longitude" : -96.884876000000006,
+                    "terminalName" : "Motiva - Dallas",
+                    "isPickUpLocation" : false,
+                    "countryCode" : "USA",
+                    "zipCode" : "75212"
+                }
+            },
+            {
+                "orderId" : 10815,
+                "jobCity" : "Lindstrom",
+                "jobZip" : "55045",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Minnesota",
+                "driverDeliveryDetails" : {
+                    "jobAddress" : "13145 St Croix Ave",
+                    "jobLatitude" : 45.390074499999997,
+                    "jobState" : "Minnesota",
+                    "jobLongitude" : -92.840602799999999,
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobCity" : "Lindstrom",
+                    "specialInstructionFiles" : {
+                        "files" : [
+                            {
+                                "name" : null,
+                                "fileStream" : null,
+                                "url" : "#2Bug-1-10815.png"
+                            }
+                        ],
+                        "id" : 10815
+                    },
+                    "jobName" : "Diacritics job",
+                    "specialInstructions" : [
+                        
+                    ],
+                    "companyName" : "Amesos",
+                    "jobZip" : "55045"
+                },
+                "fuelType" : "Clear Diesel #2 - ULS",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "withfeestpo",
+                "jobId" : 3661,
+                "jobAddress" : "13145 St Croix Ave",
+                "enrouteDeliveryStatus" : 0,
+                "companyName" : "Amesos",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "id" : 0,
+                        "status" : 1,
+                        "latitude" : 45.390074499999997,
+                        "longitude" : -92.840602799999999,
+                        "isJobLocation" : true,
+                        "address" : "13145 St Croix Ave, Lindstrom, Minnesota, 55045"
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Diacritics job",
+                "isDriverToUpdateBOL" : false,
+                "trackableScheduleId" : 0,
+                "supplierSource" : null,
+                "gallonsOrdered" : 9999999,
+                "supplierContract" : null,
+                "quantityTypeId" : 3,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "isPickUpLocation" : false,
+                    "id" : null,
+                    "countryCode" : "USA",
+                    "stateCode" : "MN",
+                    "zipCode" : "55113",
+                    "longitude" : -93.204037999999997,
+                    "address" : "2451 County Road C W",
+                    "city" : "Saint Paul",
+                    "terminalId" : 1045,
+                    "terminalName" : "Flint Hills - Roseville",
+                    "countyName" : "Ramsey County",
+                    "latitude" : 45.0242
+                }
+            },
+            {
+                "orderId" : 10862,
+                "jobCity" : "Lindstrom",
+                "jobZip" : "55045",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Minnesota",
+                "driverDeliveryDetails" : {
+                    "jobLatitude" : 45.390074499999997,
+                    "companyName" : "Amesos",
+                    "jobLongitude" : -92.840602799999999,
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobCity" : "Lindstrom",
+                    "jobState" : "Minnesota",
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 10862
+                    },
+                    "jobZip" : "55045",
+                    "jobAddress" : "13145 St Croix Ave",
+                    "jobName" : "Diacritics job",
+                    "specialInstructions" : [
+                        
+                    ]
+                },
+                "fuelType" : "Clear Diesel - Carb - ULS",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "SFPO0010862",
+                "jobId" : 3661,
+                "jobAddress" : "13145 St Croix Ave",
+                "enrouteDeliveryStatus" : 0,
+                "companyName" : "Amesos",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "id" : 0,
+                        "longitude" : -92.840602799999999,
+                        "address" : "13145 St Croix Ave, Lindstrom, Minnesota, 55045",
+                        "status" : 1,
+                        "latitude" : 45.390074499999997
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Diacritics job",
+                "isDriverToUpdateBOL" : false,
+                "trackableScheduleId" : 0,
+                "supplierSource" : null,
+                "gallonsOrdered" : 9999999,
+                "supplierContract" : null,
+                "quantityTypeId" : 3,
+                "isFTL" : false,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : {
+                    "id" : null,
+                    "terminalId" : 154,
+                    "countryCode" : "USA",
+                    "stateCode" : "CA",
+                    "latitude" : 34.875650999999998,
+                    "terminalName" : "Calnev Pipe Line LLC",
+                    "address" : "34277 Yermo Daggett Rd",
+                    "city" : "Daggett",
+                    "countyName" : "San Bernardino County",
+                    "longitude" : -116.88737999999999,
+                    "zipCode" : "92327",
+                    "isPickUpLocation" : false
+                }
+            },
+            {
+                "orderId" : 12028,
+                "jobCity" : "Ellensburg",
+                "jobZip" : "98926",
+                "utcStartTime" : 1573804800000,
+                "deliveryScheduleId" : 0,
+                "jobState" : "Washington",
+                "driverDeliveryDetails" : {
+                    "jobState" : "Washington",
+                    "jobZip" : "98926",
+                    "jobCity" : "Ellensburg",
+                    "companyName" : "Anyone",
+                    "contactPersons" : [
+                        
+                    ],
+                    "jobLatitude" : 47.007365499999999,
+                    "specialInstructionFiles" : {
+                        "files" : null,
+                        "id" : 12028
+                    },
+                    "specialInstructions" : [
+                        
+                    ],
+                    "jobName" : "Hogwarts",
+                    "jobLongitude" : -120.53589820000001,
+                    "jobAddress" : "400 E University Way"
+                },
+                "fuelType" : "doneforme",
+                "currency" : 1,
+                "orderDeliveryType" : 0,
+                "loadCode" : null,
+                "customerSignatureRequired" : false,
+                "startTime" : "8:00 AM",
+                "poNumber" : "SFPO0012028",
+                "jobId" : 2901,
+                "jobAddress" : "400 E University Way",
+                "enrouteDeliveryStatus" : 0,
+                "companyName" : "Anyone",
+                "unitOfMeasurement" : 1,
+                "locationType" : 1,
+                "dropLocations" : [
+                    {
+                        "isJobLocation" : true,
+                        "id" : 0,
+                        "longitude" : -120.53589820000001,
+                        "address" : "400 E University Way, Ellensburg, Washington, 98926",
+                        "status" : 1,
+                        "latitude" : 47.007365499999999
+                    }
+                ],
+                "utcEndTime" : 1573837200000,
+                "jobName" : "Hogwarts",
+                "isDriverToUpdateBOL" : false,
+                "trackableScheduleId" : 0,
+                "supplierSource" : null,
+                "gallonsOrdered" : 9999999,
+                "supplierContract" : null,
+                "quantityTypeId" : 3,
+                "isFTL" : true,
+                "endTime" : "5:00 PM",
+                "fuelPickUpLocation" : null
+            }
+        ],
+        "loadCode" : null,
+        "groupId" : 0,
+        "routeNote" : null
+    }
+]
